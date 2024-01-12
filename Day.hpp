@@ -114,6 +114,10 @@ class Day {
             return month;
         }
 
+        int getDayOfWeek() {
+            return dayOfWeek;
+        }
+
         std::string toString() {
             return dayOfWeekNames[dayOfWeek] + " " + monthNames[month - 1] + " " + std::to_string(day) + dateSuffix(day);
         }
