@@ -8,28 +8,19 @@ class Criterion {
                                certain occurrence of a day of the week within the month (e.g. second Tuesday in the month)*/
         int month;             // Month to check (1-12)
         int day;               // IF fixed date, day within the month to check. ELSE occurrence of the day of the week to check
-        int dayOfWeek;         // 0-6 = Sunday-Saturday: Day of week to check in month. -1 if fixed date
+        int dayOfWeek;         // 0-6 = Sunday-Saturday
+                               // If fixed date, find the first day of this day of week after the specified date
+                               // If day of week occurrence, this is the day of the week to check
         std::string semester;  // Which semester this criterion applies to (Spring, Summer, Fall)
         double weight;         // 1 for most criteria, 0.5 for lower priority
 
     public:
-        //Fixed day constructor
-        Criterion(std::string name, int month, int day, std::string semester, double weight) {
+        //Constructor
+        Criterion(std::string name, bool fixedDay, int month, int day, int dayOfWeek, std::string semester, double weight) {
             this->name = name;
-            fixedDay = true;
+            this->fixedDay = fixedDay;
             this->month = month;
             this->day = day;
-            dayOfWeek = -1;
-            this->semester = semester;
-            this->weight = weight;
-        }
-
-        //Day of week occurrence constructor
-        Criterion(std::string name, int occurrence, int dayOfWeek, int month, std::string semester, double weight) {
-            this->name = name;
-            fixedDay = false;
-            this->month = month;
-            day = occurrence;
             this->dayOfWeek = dayOfWeek;
             this->semester = semester;
             this->weight = weight;
@@ -53,6 +44,9 @@ class Criterion {
         }
         int getDayOfWeek() {
             return dayOfWeek;
+        }
+        std::string getSemester() {
+            return semester;
         }
         double getWeight() {
             return weight;
