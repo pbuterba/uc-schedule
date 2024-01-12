@@ -1,8 +1,10 @@
+#include <string>
+
 class Day {
     private:
         //Static variables
-        static String dayOfWeekNames[7] = {"Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"};
-        static String monthnames[12] = {
+        static std::string dayOfWeekNames[7] = {"Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"};
+        static std::string monthnames[12] = {
             "January",
             "February",
             "March",
@@ -24,7 +26,7 @@ class Day {
         bool isLeap;
 
         //Static functions
-        static String dateSuffix(int date) {
+        static std::string dateSuffix(int date) {
             if(date == 1 || date == 21 || date == 31) {
                 return "st";
             } else if(date == 2 || date == 22) {
@@ -63,7 +65,7 @@ class Day {
             }
         }
 
-        String toString() {
+        std::string toString() {
             return dayOfWeekNames[dayOfWeek] + " " + monthNames[month - 1] + " " + day + dateSuffix(day);
         }
 
