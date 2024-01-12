@@ -1,46 +1,46 @@
 #include <string>
 
+//Static variables
+static std::string dayOfWeekNames[] = {"Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"};
+static std::string monthNames[] = {
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December"
+};
+
+//Static functions
+static std::string dateSuffix(int date) {
+    if(date == 1 || date == 21 || date == 31) {
+        return "st";
+    } else if(date == 2 || date == 22) {
+        return "nd";
+    } else if(date == 3 || date == 23) {
+        return "rd";
+    } else {
+        return "th";
+    }
+}
+
 class Day {
     private:
-        //Static variables
-        static std::string dayOfWeekNames[7] = {"Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"};
-        static std::string monthnames[12] = {
-            "January",
-            "February",
-            "March",
-            "April",
-            "May",
-            "June",
-            "July",
-            "August",
-            "September",
-            "October",
-            "November",
-            "December"
-        };
-        
         //Member variables
         int month;
         int dayOfWeek;
         int day;
         bool isLeap;
 
-        //Static functions
-        static std::string dateSuffix(int date) {
-            if(date == 1 || date == 21 || date == 31) {
-                return "st";
-            } else if(date == 2 || date == 22) {
-                return "nd";
-            } else if(date == 3 || date == 23) {
-                return "rd";
-            } else {
-                return "th";
-            }
-        }
-
     public:
         //Full detail constructor
-        Day(int month, int dayOfWeek, int day, bool isLeap) : month(month), dayOfWeek(dayOfWeek), day(day), year(isLeap) {}
+        Day(int month, int dayOfWeek, int day, bool isLeap) : month(month), dayOfWeek(dayOfWeek), day(day), isLeap(isLeap) {}
 
         //Year beginning constructor
         Day(int dayOfWeek, bool isLeap) : month(1), dayOfWeek(dayOfWeek), day(1), isLeap(isLeap) {}
@@ -48,7 +48,7 @@ class Day {
         //Methods
         Day next() {
             if(month == 12 && day == 31) {
-                return NULL;
+                return Day(0, 0, 0, false);
             }
             int newMonth;
             int newDayOfWeek;
@@ -75,15 +75,16 @@ class Day {
 
         Day previous() {
             if(month == 1 && day == 1) {
-                return NULL;
+                return Day(0, 0, 0, false);
             }
-            int newDay;
+
+            int newMonth;
             int newDayOfWeek;
             int newDay;
 
             //Get new day and month
             if(day == 1) {
-                int newMonth = month - 1;
+                newMonth = month - 1;
                 if(newMonth == 2) {
                     if(isLeap) {
                         newDay = 29;
@@ -109,8 +110,12 @@ class Day {
             return Day(newMonth, newDayOfWeek, newDay, isLeap);
         }
 
+        int getMonth() {
+            return month;
+        }
+
         std::string toString() {
-            return dayOfWeekNames[dayOfWeek] + " " + monthNames[month - 1] + " " + day + dateSuffix(day);
+            return dayOfWeekNames[dayOfWeek] + " " + monthNames[month - 1] + " " + std::to_string(day) + dateSuffix(day);
         }
 
 };
