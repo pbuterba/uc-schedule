@@ -49,20 +49,64 @@ class Day {
         Day next() {
             if(month == 12 && day == 31) {
                 return NULL;
-            } else if(day == 31
-                    || (day == 30 && (month == 4 || month == 6 || month == 9 || month == 11))
-                    || (day == 29 && month == 2)
-                    || (day == 28 && month == 2 && !isLeap)) {
-                if(dayOfWeek == 6) {
-                    return new Day(month + 1, 0, 1, isLeap);
-                } else {
-                    return new Day(month + 1, dayOfWeek + 1, 1, isLeap);
-                }
-            } else if(dayOfWeek == 6) {
-                return new Day(month, 0, day + 1, isLeap);
-            } else {
-                return new Day(month, dayOfWeek + 1, day + 1, isLeap);
             }
+            int newMonth;
+            int newDayOfWeek;
+            int newDay;
+
+            //Get month and day
+            if(day < 28 || (day < 29 && isLeap) || (day < 30 && month != 2) || (day < 31 && month != 2 && month != 4 && month != 6 && month != 9 && month != 11)) {
+                newMonth = month;
+                newDay = day + 1;
+            } else {
+                newMonth = month + 1;
+                newDay = 1;
+            }
+
+            //Get day of week
+            if(dayOfWeek == 6) {
+                newDayOfWeek = 0;
+            } else {
+                newDayOfWeek = dayOfWeek + 1;
+            }
+
+            return Day(newMonth, newDayOfWeek, newDay, isLeap);
+        }
+
+        Day previous() {
+            if(month == 1 && day == 1) {
+                return NULL;
+            }
+            int newDay;
+            int newDayOfWeek;
+            int newDay;
+
+            //Get new day and month
+            if(day == 1) {
+                int newMonth = month - 1;
+                if(newMonth == 2) {
+                    if(isLeap) {
+                        newDay = 29;
+                    } else {
+                        newDay = 28;
+                    }
+                } else if(newMonth == 4 || newMonth == 6 || newMonth == 9 || newMonth == 11) {
+                    newDay = 30;
+                } else {
+                    newDay = 31;
+                }
+            } else {
+                newMonth = month;
+                newDay = day - 1;
+            }
+
+            //Get new day of week
+            if(dayOfWeek == 0) {
+                newDayOfWeek = 6;
+            } else {
+                newDayOfWeek = dayOfWeek - 1;
+            }
+            return Day(newMonth, newDayOfWeek, newDay, isLeap);
         }
 
         std::string toString() {
