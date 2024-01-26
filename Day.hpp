@@ -39,6 +39,9 @@ class Day {
         bool isLeap;
 
     public:
+        //Default constructor
+        Day() {}
+
         //Full detail constructor
         Day(int month, int dayOfWeek, int day, bool isLeap) : month(month), dayOfWeek(dayOfWeek), day(day), isLeap(isLeap) {}
 
