@@ -31,6 +31,31 @@ Day next(Day previousDay) {
     return previousDay.next();
 }
 
+Day prev(Day followingDay) {
+    if(followingDay.getDayOfWeek() == 1) {
+        if(semester.compare("Spring") == 0 && week == 1) {
+            std::cout << "Beginning of Year!" << std::endl;
+            semester = "New Years";
+            week = -1;
+        } else if(semester.compare("Spring-Summer break") == 0) {
+            semester = "Spring";
+            week = 16;
+        } else if(semester.compare("Summer") == 0 && week == 1) {
+            semester = "Spring-Summer break";
+            week = 1;
+        } else if(semester.compare("Summer-Fall break") == 0 && week == 1) {
+            semester = "Summer";
+            week = 13;
+        } else if(semester.compare("Fall") == 0 && week == 1) {
+            semester = "Summer-Fall break";
+            week = 2;
+        } else {
+            week = week - 1;
+        }
+    }
+    return followingDay.previous();
+}
+
 int main() {
     Criterion criteria[] = {
         Criterion("Spring Semester starts on first Monday on or after 1/6", true, 1, 6, 1, "Spring", 1, 1),
