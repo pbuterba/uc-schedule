@@ -3,29 +3,29 @@
 #include "Day.hpp"
 #include "Criterion.hpp"
 
-std::string semester = "Spring";
-int week = 1;
+std::string SEMESTER = "Spring";
+int WEEK = 1;
 
 Day next(Day previousDay) {
     if(previousDay.getDayOfWeek() == 0) {
-        if(semester.compare("Spring") == 0 && week == 16) {
-            semester = "Spring-Summer break";
-            week = 1;
-        } else if(semester.compare("Spring-Summer break") == 0) {
-            semester = "Summer";
-            week = 1;
-        } else if(semester.compare("Summer") == 0 && week == 13) {
-            semester = "Summer-Fall break";
-            week = 1;
-        } else if(semester.compare("Summer-Fall break") == 0 && week == 2) {
-            semester = "Fall";
-            week = 1;
-        } else if(semester.compare("Fall") == 0 && week == 16) {
+        if(SEMESTER.compare("Spring") == 0 && WEEK == 16) {
+            SEMESTER = "Spring-Summer break";
+            WEEK = 1;
+        } else if(SEMESTER.compare("Spring-Summer break") == 0) {
+            SEMESTER = "Summer";
+            WEEK = 1;
+        } else if(SEMESTER.compare("Summer") == 0 && WEEK == 13) {
+            SEMESTER = "Summer-Fall break";
+            WEEK = 1;
+        } else if(SEMESTER.compare("Summer-Fall break") == 0 && WEEK == 2) {
+            SEMESTER = "Fall";
+            WEEK = 1;
+        } else if(SEMESTER.compare("Fall") == 0 && WEEK == 16) {
             std::cout << "End of Year!" << std::endl;
-            semester = "Christmas break";
-            week = 1;
+            SEMESTER = "Christmas break";
+            WEEK = 1;
         } else {
-            week = week + 1;
+            WEEK = WEEK + 1;
         }
     }
     return previousDay.next();
@@ -33,24 +33,24 @@ Day next(Day previousDay) {
 
 Day prev(Day followingDay) {
     if(followingDay.getDayOfWeek() == 1) {
-        if(semester.compare("Spring") == 0 && week == 1) {
+        if(SEMESTER.compare("Spring") == 0 && WEEK == 1) {
             std::cout << "Beginning of Year!" << std::endl;
-            semester = "New Years";
-            week = -1;
-        } else if(semester.compare("Spring-Summer break") == 0) {
-            semester = "Spring";
-            week = 16;
-        } else if(semester.compare("Summer") == 0 && week == 1) {
-            semester = "Spring-Summer break";
-            week = 1;
-        } else if(semester.compare("Summer-Fall break") == 0 && week == 1) {
-            semester = "Summer";
-            week = 13;
-        } else if(semester.compare("Fall") == 0 && week == 1) {
-            semester = "Summer-Fall break";
-            week = 2;
+            SEMESTER = "New Years";
+            WEEK = -1;
+        } else if(SEMESTER.compare("Spring-Summer break") == 0) {
+            SEMESTER = "Spring";
+            WEEK = 16;
+        } else if(SEMESTER.compare("Summer") == 0 && WEEK == 1) {
+            SEMESTER = "Spring-Summer break";
+            WEEK = 1;
+        } else if(SEMESTER.compare("Summer-Fall break") == 0 && WEEK == 1) {
+            SEMESTER = "Summer";
+            WEEK = 13;
+        } else if(SEMESTER.compare("Fall") == 0 && WEEK == 1) {
+            SEMESTER = "Summer-Fall break";
+            WEEK = 2;
         } else {
-            week = week - 1;
+            WEEK = WEEK - 1;
         }
     }
     return followingDay.previous();
@@ -68,5 +68,37 @@ int main() {
         Criterion("Thanksgiving in Fall Semester Week 14", false, 11, 4, 4, "Fall", 14, 1),
         Criterion("Fall Semester Exams start on first Monday of December", false, 12, 1, 1, "Fall", 16, 1)
     };
+    int criteriaScores[9];
+
+    for(Criterion definingCriterion : criteria) {
+        //Print defining criteria
+        std::cout << "Defining schedule by " << definingCriterion.getName() << std::endl;
+        
+        //Loop once for non-leap year and once for leap year
+        for(int leap = 0; leap < 2; leap++) {
+            if(leap) {
+                std::cout << "Leap Year" << std::endl;
+            } else {
+                std::cout << "Non-leap year" << std::endl;
+            }
+
+            //Set the starting variables
+            Day currDay;
+            if(definingCriterion.isFixedDay()) {
+                currDay = Day(definingCriterion.getMonth(), definingCriterion.getDayOfWeek(), definingCriterion.getOccurrence(), leap);
+                if(definingCriterion.getDayOfWeek() > -1) {
+                    //Defining day should be the first occurrence of the day of the week after the given date
+                    while(currDay.getDayOfWeek() != definingCriterion.getDayOfWeek()) {
+                        currDay = next(currDay);
+                    }
+                }
+            } else if(definingCriterion.getOccurrence() > 0) {
+                //Todo, implement
+            }
+            SEMESTER = definingCriterion.getSemester();
+            WEEK = definingCriterion.getTargetWeek();
+        }
+
+    }
     return 0;
 }
