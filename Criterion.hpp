@@ -4,6 +4,7 @@ class Criterion {
     private:
         //Member variables
         std::string name;      // The name of this criterion
+        std::string descr;     // Description of when the criteria should fall
         bool fixedDay;         /*If true, this criterion checks the location of a specific day. If false, it checks the location of a
                                certain occurrence of a day of the week within the month (e.g. second Tuesday in the month)*/
         int month;             // Month to check (1-12)
@@ -19,8 +20,9 @@ class Criterion {
 
     public:
         //Constructor
-        Criterion(std::string name, bool fixedDay, int month, int day, int dayOfWeek, std::string semester, int targetWeek, double weight) {
+        Criterion(std::string name, std::string descr, bool fixedDay, int month, int day, int dayOfWeek, std::string semester, int targetWeek, double weight) {
             this->name = name;
+            this->descr = descr;
             this->fixedDay = fixedDay;
             this->month = month;
             this->day = day;
@@ -33,6 +35,9 @@ class Criterion {
         //Getters
         std::string getName() {
             return name;
+        }
+        std::string getDescription() {
+            return descr;
         }
         bool isFixedDay() {
             return fixedDay;
