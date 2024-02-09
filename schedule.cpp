@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+#include <fstream>
 #include "Day.hpp"
 #include "Criterion.hpp"
 
@@ -22,6 +23,8 @@ std::string MONTH_NAMES[] = {
     "December"
 };
 
+std::ofstream output("output.txt");
+
 Day next(Day previousDay) {
     if(previousDay.getDayOfWeek() == 0) {
         if(SEMESTER.compare("Spring") == 0 && WEEK == 16) {
@@ -37,7 +40,7 @@ Day next(Day previousDay) {
             SEMESTER = "Fall";
             WEEK = 1;
         } else if(SEMESTER.compare("Fall") == 0 && WEEK == 16) {
-            std::cout << "End of Year!" << std::endl;
+            output << "End of Year!" << std::endl;
             SEMESTER = "Christmas break";
             WEEK = 1;
         } else {
@@ -50,7 +53,7 @@ Day next(Day previousDay) {
 Day prev(Day followingDay) {
     if(followingDay.getDayOfWeek() == 1) {
         if(SEMESTER.compare("Spring") == 0 && WEEK == 1) {
-            std::cout << "Beginning of Year!" << std::endl;
+            output << "Beginning of Year!" << std::endl;
             SEMESTER = "New Years";
             WEEK = -1;
         } else if(SEMESTER.compare("Spring-Summer break") == 0) {
@@ -73,21 +76,21 @@ Day prev(Day followingDay) {
 }
 
 void dateAnnouncement(Criterion criterion, Day day) {
-    std::string output = criterion.getName() + " " + day.toString() + " (" + SEMESTER + " Semester Week " + std::to_string(WEEK) + ")";
-    std::cout << output;
+    std::string outputText = criterion.getName() + " " + day.toString() + " (" + SEMESTER + " Semester Week " + std::to_string(WEEK) + ")";
+    output << outputText;
 }
 
 int main() {
     Criterion criteria[] = {
-        Criterion("Spring Semester starts on", "the first Monday on or after 1/6", true, 1, 6, 1, "Spring", 1, 1),
+        Criterion("First Monday on or after 1/6 is", "the start of spring semester", true, 1, 6, 1, "Spring", 1, 1),
         Criterion("MLK Day is", "in Spring Semester Week 2", true, 1, 15, 1, "Spring", 2, 1),
         Criterion("Memorial Day is", "in Summer Semester Week 4", false, 5, 0, 1, "Summer", 4, 0.5),
         Criterion("Independence Day is", "in Summer Semester Week 9", true, 7, 4, -1, "Summer", 9, 0.5),
-        Criterion("Fall Semester Week 1 ends on", "the last Friday in August", false, 8, 0, 5, "Fall", 1, 1),
+        Criterion("The last Friday in August is", "the end of Fall Semester Week 1", false, 8, 0, 5, "Fall", 1, 1),
         Criterion("Labor Day is", "in Fall Semester Week 3", false, 9, 1, 1, "Fall", 3, 1),
         Criterion("Columbus Day is", "in Fall Semester Week 8 (defines Fall Break)", false, 10, 2, 1, "Fall", 8, 1),
         Criterion("Thanksgiving is", "in Fall Semester Week 14", false, 11, 4, 4, "Fall", 14, 1),
-        Criterion("Fall Semester Exams start on", "the first Monday in December", false, 12, 1, 1, "Fall", 16, 1)
+        Criterion("The first Monday in December is", "the start of Fall final exams", false, 12, 1, 1, "Fall", 16, 1)
     };
     int criteriaScores[] = {0, 0, 0, 0, 0, 0, 0, 0, 0};
 
@@ -96,19 +99,19 @@ int main() {
         Criterion definingCriterion = criteria[i];
         
         //Print defining criteria
-        std::cout << "Defining schedule by " << definingCriterion.getName() << " " << definingCriterion.getDescription() << std::endl;
+        output << "Defining schedule by " << definingCriterion.getName() << " " << definingCriterion.getDescription() << std::endl;
         
         //Loop over each day of the week
         for(int dayOfWeek = 0; dayOfWeek < 7; dayOfWeek++) {
             //Print day of week
-            std::cout << "Year starts on " << DAY_OF_WEEK_NAMES[dayOfWeek] << ":\n" << std::endl;
+            output << "Year starts on " << DAY_OF_WEEK_NAMES[dayOfWeek] << ":\n" << std::endl;
 
             //Loop once for non-leap year and once for leap year
             for(int leap = 0; leap < 2; leap++) {
                 if(leap) {
-                    std::cout << "Leap Year\n" << std::endl;
+                    output << "Leap Year\n" << std::endl;
                 } else {
-                    std::cout << "Non-leap year\n" << std::endl;
+                    output << "Non-leap year\n" << std::endl;
                 }
 
                 //Set the starting variables
@@ -136,7 +139,7 @@ int main() {
                             }
                         }
                         if(currDay.getMonth() != definingCriterion.getMonth()) {
-                            std::cout << MONTH_NAMES[definingCriterion.getMonth() - 1] << " does not have "
+                            output << MONTH_NAMES[definingCriterion.getMonth() - 1] << " does not have "
                                 << definingCriterion.getOccurrence() << DAY_OF_WEEK_NAMES[definingCriterion.getDayOfWeek()] << "s!"
                                 << std::endl;
                             return 1;
@@ -162,24 +165,100 @@ int main() {
                 } else {
                     score = 3 * definingCriterion.getWeight();
                 }
-                std::cout << " (+" << score << " ";
-                if(score <= 1) {
-                    std::cout << "pt";
+                output << " (+" << score << " ";
+                if(score == 1) {
+                    output << "pt";
                 } else {
-                    std::cout << "pts";
+                    output << "pts";
                 }
-                std::cout << ")" << std::endl;
+                output << ")" << std::endl;
                 criteriaScores[i] += score;
-                
-                std::cout << std::endl;
+
+                //Check all other criteria
+                for(int j = 0; j < NUM_CRITERIA; j++) {
+                    if(j != i) {
+                        Criterion criterion = criteria[j];
+
+                        //Reverse to the beginning of the year or until we're in a month before the criterion
+                        while(!(SEMESTER == "Spring" && WEEK == 1 && currDay.getDayOfWeek() == 1) && currDay.getMonth() >= criterion.getMonth())
+                        {
+                            currDay = prev(currDay);
+                        }
+
+                        //Advance to the criterion day
+                        if(criterion.isFixedDay()) {
+                            while(currDay.getMonth() != criterion.getMonth() || currDay.getDate() != criterion.getDay()) {
+                                currDay = next(currDay);
+                            }
+                            if(criterion.getDayOfWeek() > -1) {
+                                //Defining day should be the first occurrence of the day of the week after the given date
+                                while(currDay.getDayOfWeek() != criterion.getDayOfWeek()) {
+                                    currDay = next(currDay);
+                                }
+                            }
+                        } else if(criterion.getOccurrence() > 0) {
+                            while(currDay.getMonth() != criterion.getMonth()) {
+                                currDay = next(currDay);
+                            }
+                            if(criterion.getOccurrence() != 1 || currDay.getDayOfWeek() != criterion.getDayOfWeek()) {
+                                int occurrence = 0;
+                                while(occurrence < criterion.getOccurrence() && currDay.getMonth() == criterion.getMonth()) {
+                                    currDay = next(currDay);
+                                    if(currDay.getDayOfWeek() == criterion.getDayOfWeek()) {
+                                        occurrence += 1;
+                                    }
+                                }
+                                if(currDay.getMonth() != criterion.getMonth()) {
+                                    output << MONTH_NAMES[criterion.getMonth() - 1] << " does not have "
+                                        << criterion.getOccurrence() << DAY_OF_WEEK_NAMES[criterion.getDayOfWeek()] << "s!"
+                                        << std::endl;
+                                    return 1;
+                                }
+                            }
+                        } else {
+                            while(currDay.getMonth() <= criterion.getMonth()) {
+                                currDay = next(currDay);
+                            }
+                            currDay = prev(currDay);
+                            while(currDay.getDayOfWeek() != criterion.getDayOfWeek()) {
+                                currDay = prev(currDay);
+                            }
+                        }
+
+                        //Check if criterion is met
+                        dateAnnouncement(criterion, currDay);
+                        if(SEMESTER == criterion.getSemester() && WEEK == criterion.getTargetWeek()) {
+                            //Add scores
+                            double score;
+                            if(leap) {
+                                score = criterion.getWeight();
+                            } else {
+                                score = 3 * criterion.getWeight();
+                            }
+                            output << " (+" << score << " ";
+                            if(score == 1) {
+                                output << "pt";
+                            } else {
+                                output << "pts";
+                            }
+                            output << ")" << std::endl;
+                            criteriaScores[i] += score;
+                        } else {
+                            output << ", should be " << criterion.getSemester() << " Semester Week " << criterion.getTargetWeek() << std::endl;
+                        }
+
+                    }
+                    
+                }
+                output << std::endl;
             }
-            std::cout << std::endl << std::endl;
+            output << std::endl << std::endl;
         }
     }
 
-    std::cout << "Final scores: " << std::endl;
+    output << "Final scores: " << std::endl;
     for(int i = 0; i < NUM_CRITERIA; i++) {
-        std::cout << criteria[i].getName() << " " << criteria[i].getDescription() << " - " << criteriaScores[i] << " pts" << std::endl;
+        output << criteria[i].getName() << " " << criteria[i].getDescription() << " - " << criteriaScores[i] << " pts" << std::endl;
     }
     return 0;
 }
