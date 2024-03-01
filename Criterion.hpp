@@ -1,8 +1,10 @@
+#ifndef CRITERION_HPP
+#define CRITERION_HPP
 #include <string>
 
 class Criterion {
     private:
-        //Member variables
+        //Fields
         std::string name;      // The name of this criterion
         std::string descr;     // Description of when the criteria should fall
         bool fixedDay;         /*If true, this criterion checks the location of a specific day. If false, it checks the location of a
@@ -20,48 +22,19 @@ class Criterion {
 
     public:
         //Constructor
-        Criterion(std::string name, std::string descr, bool fixedDay, int month, int day, int dayOfWeek, std::string semester, int targetWeek, double weight) {
-            this->name = name;
-            this->descr = descr;
-            this->fixedDay = fixedDay;
-            this->month = month;
-            this->day = day;
-            this->dayOfWeek = dayOfWeek;
-            this->semester = semester;
-            this->targetWeek = targetWeek;
-            this->weight = weight;
-        }
+        Criterion(std::string, std::string, bool, int, int, int, std::string, int, double);
 
         //Getters
-        std::string getName() {
-            return name;
-        }
-        std::string getDescription() {
-            return descr;
-        }
-        bool isFixedDay() {
-            return fixedDay;
-        }
-        int getMonth() {
-            return month;
-        }
-        int getDay() {
-            return day;
-        }
-        int getOccurrence() {
-            return day;
-        }
-        int getDayOfWeek() {
-            return dayOfWeek;
-        }
-        std::string getSemester() {
-            return semester;
-        }
-        int getTargetWeek() {
-            return targetWeek;
-        }
-        double getWeight() {
-            return weight;
-        }
-
+        std::string getName();
+        std::string getDescription();
+        bool isFixedDay();
+        int getMonth();
+        int getDay();
+        int getOccurrence();
+        int getDayOfWeek();
+        std::string getSemester();
+        int getTargetWeek();
+        double getWeight();
 };
+
+#endif
