@@ -1,0 +1,1783 @@
+Defining schedule by First Monday on or after 1/6 is the start of spring semester
+Year starts on Sunday:
+
+Non-leap year
+
+First Monday on or after 1/6 is Monday January 9th (Spring Semester Week 1) (+3 pts)
+MLK Day is Monday January 16th (Spring Semester Week 2) (+3 pts)
+Memorial Day is Monday May 29th (Summer Semester Week 4) (+1.5 pts)
+Independence Day is Tuesday July 4th (Summer Semester Week 9) (+1.5 pts)
+The last Friday in August is Friday August 25th (Fall Semester Week 1) (+3 pts)
+Labor Day is Monday September 4th (Fall Semester Week 3) (+3 pts)
+Columbus Day is Monday October 9th (Fall Semester Week 8) (+3 pts)
+Thanksgiving is Thursday November 23rd (Fall Semester Week 14) (+3 pts)
+The first Monday in December is Monday December 4th (Fall Semester Week 16) (+3 pts)
+
+Leap Year
+
+First Monday on or after 1/6 is Monday January 9th (Spring Semester Week 1) (+1 pt)
+MLK Day is Monday January 16th (Spring Semester Week 2) (+1 pt)
+Memorial Day is Monday May 28th (Summer Semester Week 4) (+0.5 pts)
+Independence Day is Wednesday July 4th (Summer Semester Week 9) (+0.5 pts)
+The last Friday in August is Friday August 31st (Fall Semester Week 2), should be Fall Semester Week 1
+Labor Day is Monday September 3rd (Fall Semester Week 3) (+1 pt)
+Columbus Day is Monday October 15th (Fall Semester Week 9), should be Fall Semester Week 8
+Thanksgiving is Thursday November 29th (Fall Semester Week 15), should be Fall Semester Week 14
+The first Monday in December is Monday December 3rd (Fall Semester Week 16) (+1 pt)
+
+
+
+Year starts on Monday:
+
+Non-leap year
+
+First Monday on or after 1/6 is Monday January 8th (Spring Semester Week 1) (+3 pts)
+MLK Day is Monday January 15th (Spring Semester Week 2) (+3 pts)
+Memorial Day is Monday May 28th (Summer Semester Week 4) (+1.5 pts)
+Independence Day is Wednesday July 4th (Summer Semester Week 9) (+1.5 pts)
+The last Friday in August is Friday August 31st (Fall Semester Week 2), should be Fall Semester Week 1
+Labor Day is Monday September 3rd (Fall Semester Week 3) (+3 pts)
+Columbus Day is Monday October 15th (Fall Semester Week 9), should be Fall Semester Week 8
+Thanksgiving is Thursday November 29th (Fall Semester Week 15), should be Fall Semester Week 14
+The first Monday in December is Monday December 3rd (Fall Semester Week 16) (+3 pts)
+
+Leap Year
+
+First Monday on or after 1/6 is Monday January 8th (Spring Semester Week 1) (+1 pt)
+MLK Day is Monday January 15th (Spring Semester Week 2) (+1 pt)
+Memorial Day is Monday May 27th (Summer Semester Week 4) (+0.5 pts)
+Independence Day is Thursday July 4th (Summer Semester Week 9) (+0.5 pts)
+The last Friday in August is Friday August 30th (Fall Semester Week 2), should be Fall Semester Week 1
+Labor Day is Monday September 2nd (Fall Semester Week 3) (+1 pt)
+Columbus Day is Monday October 14th (Fall Semester Week 9), should be Fall Semester Week 8
+Thanksgiving is Thursday November 28th (Fall Semester Week 15), should be Fall Semester Week 14
+The first Monday in December is Monday December 2nd (Fall Semester Week 16) (+1 pt)
+
+
+
+Year starts on Tuesday:
+
+Non-leap year
+
+First Monday on or after 1/6 is Monday January 7th (Spring Semester Week 1) (+3 pts)
+MLK Day is Monday January 21st (Spring Semester Week 3), should be Spring Semester Week 2
+Memorial Day is Monday May 27th (Summer Semester Week 4) (+1.5 pts)
+Independence Day is Thursday July 4th (Summer Semester Week 9) (+1.5 pts)
+The last Friday in August is Friday August 30th (Fall Semester Week 2), should be Fall Semester Week 1
+Labor Day is Monday September 2nd (Fall Semester Week 3) (+3 pts)
+Columbus Day is Monday October 14th (Fall Semester Week 9), should be Fall Semester Week 8
+Thanksgiving is Thursday November 28th (Fall Semester Week 15), should be Fall Semester Week 14
+The first Monday in December is Monday December 2nd (Fall Semester Week 16) (+3 pts)
+
+Leap Year
+
+First Monday on or after 1/6 is Monday January 7th (Spring Semester Week 1) (+1 pt)
+MLK Day is Monday January 21st (Spring Semester Week 3), should be Spring Semester Week 2
+Memorial Day is Monday May 26th (Summer Semester Week 4) (+0.5 pts)
+Independence Day is Friday July 4th (Summer Semester Week 9) (+0.5 pts)
+The last Friday in August is Friday August 29th (Fall Semester Week 2), should be Fall Semester Week 1
+Labor Day is Monday September 1st (Fall Semester Week 3) (+1 pt)
+Columbus Day is Monday October 13th (Fall Semester Week 9), should be Fall Semester Week 8
+Thanksgiving is Thursday November 27th (Fall Semester Week 15), should be Fall Semester Week 14
+The first Monday in December is Monday December 1st (Fall Semester Week 16) (+1 pt)
+
+
+
+Year starts on Wednesday:
+
+Non-leap year
+
+First Monday on or after 1/6 is Monday January 6th (Spring Semester Week 1) (+3 pts)
+MLK Day is Monday January 20th (Spring Semester Week 3), should be Spring Semester Week 2
+Memorial Day is Monday May 26th (Summer Semester Week 4) (+1.5 pts)
+Independence Day is Friday July 4th (Summer Semester Week 9) (+1.5 pts)
+The last Friday in August is Friday August 29th (Fall Semester Week 2), should be Fall Semester Week 1
+Labor Day is Monday September 1st (Fall Semester Week 3) (+3 pts)
+Columbus Day is Monday October 13th (Fall Semester Week 9), should be Fall Semester Week 8
+Thanksgiving is Thursday November 27th (Fall Semester Week 15), should be Fall Semester Week 14
+The first Monday in December is Monday December 1st (Fall Semester Week 16) (+3 pts)
+
+Leap Year
+
+First Monday on or after 1/6 is Monday January 6th (Spring Semester Week 1) (+1 pt)
+MLK Day is Monday January 20th (Spring Semester Week 3), should be Spring Semester Week 2
+Memorial Day is Monday May 25th (Summer Semester Week 4) (+0.5 pts)
+Independence Day is Saturday July 4th (Summer Semester Week 9) (+0.5 pts)
+The last Friday in August is Friday August 28th (Fall Semester Week 2), should be Fall Semester Week 1
+Labor Day is Monday September 7th (Fall Semester Week 4), should be Fall Semester Week 3
+Columbus Day is Monday October 12th (Fall Semester Week 9), should be Fall Semester Week 8
+Thanksgiving is Thursday November 26th (Fall Semester Week 15), should be Fall Semester Week 14
+The first Monday in December is Monday December 7th (1 days after fall semester), should be Fall Semester Week 16
+
+
+
+Year starts on Thursday:
+
+Non-leap year
+
+First Monday on or after 1/6 is Monday January 12th (Spring Semester Week 1) (+3 pts)
+MLK Day is Monday January 19th (Spring Semester Week 2) (+3 pts)
+Memorial Day is Monday May 25th (Summer Semester Week 3), should be Summer Semester Week 4
+Independence Day is Saturday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+The last Friday in August is Friday August 28th (Fall Semester Week 1) (+3 pts)
+Labor Day is Monday September 7th (Fall Semester Week 3) (+3 pts)
+Columbus Day is Monday October 12th (Fall Semester Week 8) (+3 pts)
+Thanksgiving is Thursday November 26th (Fall Semester Week 14) (+3 pts)
+The first Monday in December is Monday December 7th (Fall Semester Week 16) (+3 pts)
+
+Leap Year
+
+First Monday on or after 1/6 is Monday January 12th (Spring Semester Week 1) (+1 pt)
+MLK Day is Monday January 19th (Spring Semester Week 2) (+1 pt)
+Memorial Day is Monday May 31st (Summer Semester Week 4) (+0.5 pts)
+Independence Day is Sunday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+The last Friday in August is Friday August 27th (Fall Semester Week 1) (+1 pt)
+Labor Day is Monday September 6th (Fall Semester Week 3) (+1 pt)
+Columbus Day is Monday October 11th (Fall Semester Week 8) (+1 pt)
+Thanksgiving is Thursday November 25th (Fall Semester Week 14) (+1 pt)
+The first Monday in December is Monday December 6th (Fall Semester Week 16) (+1 pt)
+
+
+
+Year starts on Friday:
+
+Non-leap year
+
+First Monday on or after 1/6 is Monday January 11th (Spring Semester Week 1) (+3 pts)
+MLK Day is Monday January 18th (Spring Semester Week 2) (+3 pts)
+Memorial Day is Monday May 31st (Summer Semester Week 4) (+1.5 pts)
+Independence Day is Sunday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+The last Friday in August is Friday August 27th (Fall Semester Week 1) (+3 pts)
+Labor Day is Monday September 6th (Fall Semester Week 3) (+3 pts)
+Columbus Day is Monday October 11th (Fall Semester Week 8) (+3 pts)
+Thanksgiving is Thursday November 25th (Fall Semester Week 14) (+3 pts)
+The first Monday in December is Monday December 6th (Fall Semester Week 16) (+3 pts)
+
+Leap Year
+
+First Monday on or after 1/6 is Monday January 11th (Spring Semester Week 1) (+1 pt)
+MLK Day is Monday January 18th (Spring Semester Week 2) (+1 pt)
+Memorial Day is Monday May 30th (Summer Semester Week 4) (+0.5 pts)
+Independence Day is Monday July 4th (Summer Semester Week 9) (+0.5 pts)
+The last Friday in August is Friday August 26th (Fall Semester Week 1) (+1 pt)
+Labor Day is Monday September 5th (Fall Semester Week 3) (+1 pt)
+Columbus Day is Monday October 10th (Fall Semester Week 8) (+1 pt)
+Thanksgiving is Thursday November 24th (Fall Semester Week 14) (+1 pt)
+The first Monday in December is Monday December 5th (Fall Semester Week 16) (+1 pt)
+
+
+
+Year starts on Saturday:
+
+Non-leap year
+
+First Monday on or after 1/6 is Monday January 10th (Spring Semester Week 1) (+3 pts)
+MLK Day is Monday January 17th (Spring Semester Week 2) (+3 pts)
+Memorial Day is Monday May 30th (Summer Semester Week 4) (+1.5 pts)
+Independence Day is Monday July 4th (Summer Semester Week 9) (+1.5 pts)
+The last Friday in August is Friday August 26th (Fall Semester Week 1) (+3 pts)
+Labor Day is Monday September 5th (Fall Semester Week 3) (+3 pts)
+Columbus Day is Monday October 10th (Fall Semester Week 8) (+3 pts)
+Thanksgiving is Thursday November 24th (Fall Semester Week 14) (+3 pts)
+The first Monday in December is Monday December 5th (Fall Semester Week 16) (+3 pts)
+
+Leap Year
+
+First Monday on or after 1/6 is Monday January 10th (Spring Semester Week 1) (+1 pt)
+MLK Day is Monday January 17th (Spring Semester Week 2) (+1 pt)
+Memorial Day is Monday May 29th (Summer Semester Week 4) (+0.5 pts)
+Independence Day is Tuesday July 4th (Summer Semester Week 9) (+0.5 pts)
+The last Friday in August is Friday August 25th (Fall Semester Week 1) (+1 pt)
+Labor Day is Monday September 4th (Fall Semester Week 3) (+1 pt)
+Columbus Day is Monday October 9th (Fall Semester Week 8) (+1 pt)
+Thanksgiving is Thursday November 23rd (Fall Semester Week 14) (+1 pt)
+The first Monday in December is Monday December 4th (Fall Semester Week 16) (+1 pt)
+
+
+
+Defining schedule by MLK Day is in Spring Semester Week 2
+Year starts on Sunday:
+
+Non-leap year
+
+MLK Day is Monday January 16th (Spring Semester Week 2) (+3 pts)
+First Monday on or after 1/6 is Monday January 9th (Spring Semester Week 1) (+3 pts)
+Memorial Day is Monday May 29th (Summer Semester Week 4) (+1.5 pts)
+Independence Day is Tuesday July 4th (Summer Semester Week 9) (+1.5 pts)
+The last Friday in August is Friday August 25th (Fall Semester Week 1) (+3 pts)
+Labor Day is Monday September 4th (Fall Semester Week 3) (+3 pts)
+Columbus Day is Monday October 9th (Fall Semester Week 8) (+3 pts)
+Thanksgiving is Thursday November 23rd (Fall Semester Week 14) (+3 pts)
+The first Monday in December is Monday December 4th (Fall Semester Week 16) (+3 pts)
+
+Leap Year
+
+MLK Day is Monday January 16th (Spring Semester Week 2) (+1 pt)
+First Monday on or after 1/6 is Monday January 9th (Spring Semester Week 1) (+1 pt)
+Memorial Day is Monday May 28th (Summer Semester Week 4) (+0.5 pts)
+Independence Day is Wednesday July 4th (Summer Semester Week 9) (+0.5 pts)
+The last Friday in August is Friday August 31st (Fall Semester Week 2), should be Fall Semester Week 1
+Labor Day is Monday September 3rd (Fall Semester Week 3) (+1 pt)
+Columbus Day is Monday October 15th (Fall Semester Week 9), should be Fall Semester Week 8
+Thanksgiving is Thursday November 29th (Fall Semester Week 15), should be Fall Semester Week 14
+The first Monday in December is Monday December 3rd (Fall Semester Week 16) (+1 pt)
+
+
+
+Year starts on Monday:
+
+Non-leap year
+
+MLK Day is Monday January 15th (Spring Semester Week 2) (+3 pts)
+First Monday on or after 1/6 is Monday January 8th (Spring Semester Week 1) (+3 pts)
+Memorial Day is Monday May 28th (Summer Semester Week 4) (+1.5 pts)
+Independence Day is Wednesday July 4th (Summer Semester Week 9) (+1.5 pts)
+The last Friday in August is Friday August 31st (Fall Semester Week 2), should be Fall Semester Week 1
+Labor Day is Monday September 3rd (Fall Semester Week 3) (+3 pts)
+Columbus Day is Monday October 15th (Fall Semester Week 9), should be Fall Semester Week 8
+Thanksgiving is Thursday November 29th (Fall Semester Week 15), should be Fall Semester Week 14
+The first Monday in December is Monday December 3rd (Fall Semester Week 16) (+3 pts)
+
+Leap Year
+
+MLK Day is Monday January 15th (Spring Semester Week 2) (+1 pt)
+First Monday on or after 1/6 is Monday January 8th (Spring Semester Week 1) (+1 pt)
+Memorial Day is Monday May 27th (Summer Semester Week 4) (+0.5 pts)
+Independence Day is Thursday July 4th (Summer Semester Week 9) (+0.5 pts)
+The last Friday in August is Friday August 30th (Fall Semester Week 2), should be Fall Semester Week 1
+Labor Day is Monday September 2nd (Fall Semester Week 3) (+1 pt)
+Columbus Day is Monday October 14th (Fall Semester Week 9), should be Fall Semester Week 8
+Thanksgiving is Thursday November 28th (Fall Semester Week 15), should be Fall Semester Week 14
+The first Monday in December is Monday December 2nd (Fall Semester Week 16) (+1 pt)
+
+
+
+Year starts on Tuesday:
+
+Non-leap year
+
+MLK Day is Monday January 21st (Spring Semester Week 2) (+3 pts)
+First Monday on or after 1/6 is Monday January 7th (7 days before spring semester), should be Spring Semester Week 1
+Memorial Day is Monday May 27th (Summer Semester Week 3), should be Summer Semester Week 4
+Independence Day is Thursday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+The last Friday in August is Friday August 30th (Fall Semester Week 1) (+3 pts)
+Labor Day is Monday September 2nd (Fall Semester Week 2), should be Fall Semester Week 3
+Columbus Day is Monday October 14th (Fall Semester Week 8) (+3 pts)
+Thanksgiving is Thursday November 28th (Fall Semester Week 14) (+3 pts)
+The first Monday in December is Monday December 2nd (Fall Semester Week 15), should be Fall Semester Week 16
+
+Leap Year
+
+MLK Day is Monday January 21st (Spring Semester Week 2) (+1 pt)
+First Monday on or after 1/6 is Monday January 7th (7 days before spring semester), should be Spring Semester Week 1
+Memorial Day is Monday May 26th (Summer Semester Week 3), should be Summer Semester Week 4
+Independence Day is Friday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+The last Friday in August is Friday August 29th (Fall Semester Week 1) (+1 pt)
+Labor Day is Monday September 1st (Fall Semester Week 2), should be Fall Semester Week 3
+Columbus Day is Monday October 13th (Fall Semester Week 8) (+1 pt)
+Thanksgiving is Thursday November 27th (Fall Semester Week 14) (+1 pt)
+The first Monday in December is Monday December 1st (Fall Semester Week 15), should be Fall Semester Week 16
+
+
+
+Year starts on Wednesday:
+
+Non-leap year
+
+MLK Day is Monday January 20th (Spring Semester Week 2) (+3 pts)
+First Monday on or after 1/6 is Monday January 6th (7 days before spring semester), should be Spring Semester Week 1
+Memorial Day is Monday May 26th (Summer Semester Week 3), should be Summer Semester Week 4
+Independence Day is Friday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+The last Friday in August is Friday August 29th (Fall Semester Week 1) (+3 pts)
+Labor Day is Monday September 1st (Fall Semester Week 2), should be Fall Semester Week 3
+Columbus Day is Monday October 13th (Fall Semester Week 8) (+3 pts)
+Thanksgiving is Thursday November 27th (Fall Semester Week 14) (+3 pts)
+The first Monday in December is Monday December 1st (Fall Semester Week 15), should be Fall Semester Week 16
+
+Leap Year
+
+MLK Day is Monday January 20th (Spring Semester Week 2) (+1 pt)
+First Monday on or after 1/6 is Monday January 6th (7 days before spring semester), should be Spring Semester Week 1
+Memorial Day is Monday May 25th (Summer Semester Week 3), should be Summer Semester Week 4
+Independence Day is Saturday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+The last Friday in August is Friday August 28th (Fall Semester Week 1) (+1 pt)
+Labor Day is Monday September 7th (Fall Semester Week 3) (+1 pt)
+Columbus Day is Monday October 12th (Fall Semester Week 8) (+1 pt)
+Thanksgiving is Thursday November 26th (Fall Semester Week 14) (+1 pt)
+The first Monday in December is Monday December 7th (Fall Semester Week 16) (+1 pt)
+
+
+
+Year starts on Thursday:
+
+Non-leap year
+
+MLK Day is Monday January 19th (Spring Semester Week 2) (+3 pts)
+First Monday on or after 1/6 is Monday January 12th (Spring Semester Week 1) (+3 pts)
+Memorial Day is Monday May 25th (Summer Semester Week 3), should be Summer Semester Week 4
+Independence Day is Saturday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+The last Friday in August is Friday August 28th (Fall Semester Week 1) (+3 pts)
+Labor Day is Monday September 7th (Fall Semester Week 3) (+3 pts)
+Columbus Day is Monday October 12th (Fall Semester Week 8) (+3 pts)
+Thanksgiving is Thursday November 26th (Fall Semester Week 14) (+3 pts)
+The first Monday in December is Monday December 7th (Fall Semester Week 16) (+3 pts)
+
+Leap Year
+
+MLK Day is Monday January 19th (Spring Semester Week 2) (+1 pt)
+First Monday on or after 1/6 is Monday January 12th (Spring Semester Week 1) (+1 pt)
+Memorial Day is Monday May 31st (Summer Semester Week 4) (+0.5 pts)
+Independence Day is Sunday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+The last Friday in August is Friday August 27th (Fall Semester Week 1) (+1 pt)
+Labor Day is Monday September 6th (Fall Semester Week 3) (+1 pt)
+Columbus Day is Monday October 11th (Fall Semester Week 8) (+1 pt)
+Thanksgiving is Thursday November 25th (Fall Semester Week 14) (+1 pt)
+The first Monday in December is Monday December 6th (Fall Semester Week 16) (+1 pt)
+
+
+
+Year starts on Friday:
+
+Non-leap year
+
+MLK Day is Monday January 18th (Spring Semester Week 2) (+3 pts)
+First Monday on or after 1/6 is Monday January 11th (Spring Semester Week 1) (+3 pts)
+Memorial Day is Monday May 31st (Summer Semester Week 4) (+1.5 pts)
+Independence Day is Sunday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+The last Friday in August is Friday August 27th (Fall Semester Week 1) (+3 pts)
+Labor Day is Monday September 6th (Fall Semester Week 3) (+3 pts)
+Columbus Day is Monday October 11th (Fall Semester Week 8) (+3 pts)
+Thanksgiving is Thursday November 25th (Fall Semester Week 14) (+3 pts)
+The first Monday in December is Monday December 6th (Fall Semester Week 16) (+3 pts)
+
+Leap Year
+
+MLK Day is Monday January 18th (Spring Semester Week 2) (+1 pt)
+First Monday on or after 1/6 is Monday January 11th (Spring Semester Week 1) (+1 pt)
+Memorial Day is Monday May 30th (Summer Semester Week 4) (+0.5 pts)
+Independence Day is Monday July 4th (Summer Semester Week 9) (+0.5 pts)
+The last Friday in August is Friday August 26th (Fall Semester Week 1) (+1 pt)
+Labor Day is Monday September 5th (Fall Semester Week 3) (+1 pt)
+Columbus Day is Monday October 10th (Fall Semester Week 8) (+1 pt)
+Thanksgiving is Thursday November 24th (Fall Semester Week 14) (+1 pt)
+The first Monday in December is Monday December 5th (Fall Semester Week 16) (+1 pt)
+
+
+
+Year starts on Saturday:
+
+Non-leap year
+
+MLK Day is Monday January 17th (Spring Semester Week 2) (+3 pts)
+First Monday on or after 1/6 is Monday January 10th (Spring Semester Week 1) (+3 pts)
+Memorial Day is Monday May 30th (Summer Semester Week 4) (+1.5 pts)
+Independence Day is Monday July 4th (Summer Semester Week 9) (+1.5 pts)
+The last Friday in August is Friday August 26th (Fall Semester Week 1) (+3 pts)
+Labor Day is Monday September 5th (Fall Semester Week 3) (+3 pts)
+Columbus Day is Monday October 10th (Fall Semester Week 8) (+3 pts)
+Thanksgiving is Thursday November 24th (Fall Semester Week 14) (+3 pts)
+The first Monday in December is Monday December 5th (Fall Semester Week 16) (+3 pts)
+
+Leap Year
+
+MLK Day is Monday January 17th (Spring Semester Week 2) (+1 pt)
+First Monday on or after 1/6 is Monday January 10th (Spring Semester Week 1) (+1 pt)
+Memorial Day is Monday May 29th (Summer Semester Week 4) (+0.5 pts)
+Independence Day is Tuesday July 4th (Summer Semester Week 9) (+0.5 pts)
+The last Friday in August is Friday August 25th (Fall Semester Week 1) (+1 pt)
+Labor Day is Monday September 4th (Fall Semester Week 3) (+1 pt)
+Columbus Day is Monday October 9th (Fall Semester Week 8) (+1 pt)
+Thanksgiving is Thursday November 23rd (Fall Semester Week 14) (+1 pt)
+The first Monday in December is Monday December 4th (Fall Semester Week 16) (+1 pt)
+
+
+
+Defining schedule by Memorial Day is in Summer Semester Week 4
+Year starts on Sunday:
+
+Non-leap year
+
+Memorial Day is Monday May 29th (Summer Semester Week 4) (+1.5 pts)
+First Monday on or after 1/6 is Monday January 9th (Spring Semester Week 1) (+3 pts)
+MLK Day is Monday January 16th (Spring Semester Week 2) (+3 pts)
+Independence Day is Tuesday July 4th (Summer Semester Week 9) (+1.5 pts)
+The last Friday in August is Friday August 25th (Fall Semester Week 1) (+3 pts)
+Labor Day is Monday September 4th (Fall Semester Week 3) (+3 pts)
+Columbus Day is Monday October 9th (Fall Semester Week 8) (+3 pts)
+Thanksgiving is Thursday November 23rd (Fall Semester Week 14) (+3 pts)
+The first Monday in December is Monday December 4th (Fall Semester Week 16) (+3 pts)
+
+Leap Year
+
+Memorial Day is Monday May 28th (Summer Semester Week 4) (+0.5 pts)
+First Monday on or after 1/6 is Monday January 9th (Spring Semester Week 1) (+1 pt)
+MLK Day is Monday January 16th (Spring Semester Week 2) (+1 pt)
+Independence Day is Wednesday July 4th (Summer Semester Week 9) (+0.5 pts)
+The last Friday in August is Friday August 31st (Fall Semester Week 2), should be Fall Semester Week 1
+Labor Day is Monday September 3rd (Fall Semester Week 3) (+1 pt)
+Columbus Day is Monday October 15th (Fall Semester Week 9), should be Fall Semester Week 8
+Thanksgiving is Thursday November 29th (Fall Semester Week 15), should be Fall Semester Week 14
+The first Monday in December is Monday December 3rd (Fall Semester Week 16) (+1 pt)
+
+
+
+Year starts on Monday:
+
+Non-leap year
+
+Memorial Day is Monday May 28th (Summer Semester Week 4) (+1.5 pts)
+First Monday on or after 1/6 is Monday January 8th (Spring Semester Week 1) (+3 pts)
+MLK Day is Monday January 15th (Spring Semester Week 2) (+3 pts)
+Independence Day is Wednesday July 4th (Summer Semester Week 9) (+1.5 pts)
+The last Friday in August is Friday August 31st (Fall Semester Week 2), should be Fall Semester Week 1
+Labor Day is Monday September 3rd (Fall Semester Week 3) (+3 pts)
+Columbus Day is Monday October 15th (Fall Semester Week 9), should be Fall Semester Week 8
+Thanksgiving is Thursday November 29th (Fall Semester Week 15), should be Fall Semester Week 14
+The first Monday in December is Monday December 3rd (Fall Semester Week 16) (+3 pts)
+
+Leap Year
+
+Memorial Day is Monday May 27th (Summer Semester Week 4) (+0.5 pts)
+First Monday on or after 1/6 is Monday January 8th (Spring Semester Week 1) (+1 pt)
+MLK Day is Monday January 15th (Spring Semester Week 2) (+1 pt)
+Independence Day is Thursday July 4th (Summer Semester Week 9) (+0.5 pts)
+The last Friday in August is Friday August 30th (Fall Semester Week 2), should be Fall Semester Week 1
+Labor Day is Monday September 2nd (Fall Semester Week 3) (+1 pt)
+Columbus Day is Monday October 14th (Fall Semester Week 9), should be Fall Semester Week 8
+Thanksgiving is Thursday November 28th (Fall Semester Week 15), should be Fall Semester Week 14
+The first Monday in December is Monday December 2nd (Fall Semester Week 16) (+1 pt)
+
+
+
+Year starts on Tuesday:
+
+Non-leap year
+
+Memorial Day is Monday May 27th (Summer Semester Week 4) (+1.5 pts)
+First Monday on or after 1/6 is Monday January 7th (Spring Semester Week 1) (+3 pts)
+MLK Day is Monday January 21st (Spring Semester Week 3), should be Spring Semester Week 2
+Independence Day is Thursday July 4th (Summer Semester Week 9) (+1.5 pts)
+The last Friday in August is Friday August 30th (Fall Semester Week 2), should be Fall Semester Week 1
+Labor Day is Monday September 2nd (Fall Semester Week 3) (+3 pts)
+Columbus Day is Monday October 14th (Fall Semester Week 9), should be Fall Semester Week 8
+Thanksgiving is Thursday November 28th (Fall Semester Week 15), should be Fall Semester Week 14
+The first Monday in December is Monday December 2nd (Fall Semester Week 16) (+3 pts)
+
+Leap Year
+
+Memorial Day is Monday May 26th (Summer Semester Week 4) (+0.5 pts)
+First Monday on or after 1/6 is Monday January 7th (Spring Semester Week 1) (+1 pt)
+MLK Day is Monday January 21st (Spring Semester Week 3), should be Spring Semester Week 2
+Independence Day is Friday July 4th (Summer Semester Week 9) (+0.5 pts)
+The last Friday in August is Friday August 29th (Fall Semester Week 2), should be Fall Semester Week 1
+Labor Day is Monday September 1st (Fall Semester Week 3) (+1 pt)
+Columbus Day is Monday October 13th (Fall Semester Week 9), should be Fall Semester Week 8
+Thanksgiving is Thursday November 27th (Fall Semester Week 15), should be Fall Semester Week 14
+The first Monday in December is Monday December 1st (Fall Semester Week 16) (+1 pt)
+
+
+
+Year starts on Wednesday:
+
+Non-leap year
+
+Memorial Day is Monday May 26th (Summer Semester Week 4) (+1.5 pts)
+First Monday on or after 1/6 is Monday January 6th (Spring Semester Week 1) (+3 pts)
+MLK Day is Monday January 20th (Spring Semester Week 3), should be Spring Semester Week 2
+Independence Day is Friday July 4th (Summer Semester Week 9) (+1.5 pts)
+The last Friday in August is Friday August 29th (Fall Semester Week 2), should be Fall Semester Week 1
+Labor Day is Monday September 1st (Fall Semester Week 3) (+3 pts)
+Columbus Day is Monday October 13th (Fall Semester Week 9), should be Fall Semester Week 8
+Thanksgiving is Thursday November 27th (Fall Semester Week 15), should be Fall Semester Week 14
+The first Monday in December is Monday December 1st (Fall Semester Week 16) (+3 pts)
+
+Leap Year
+
+Memorial Day is Monday May 25th (Summer Semester Week 4) (+0.5 pts)
+First Monday on or after 1/6 is Monday January 6th (Spring Semester Week 1) (+1 pt)
+MLK Day is Monday January 20th (Spring Semester Week 3), should be Spring Semester Week 2
+Independence Day is Saturday July 4th (Summer Semester Week 9) (+0.5 pts)
+The last Friday in August is Friday August 28th (Fall Semester Week 2), should be Fall Semester Week 1
+Labor Day is Monday September 7th (Fall Semester Week 4), should be Fall Semester Week 3
+Columbus Day is Monday October 12th (Fall Semester Week 9), should be Fall Semester Week 8
+Thanksgiving is Thursday November 26th (Fall Semester Week 15), should be Fall Semester Week 14
+The first Monday in December is Monday December 7th (1 days after fall semester), should be Fall Semester Week 16
+
+
+
+Year starts on Thursday:
+
+Non-leap year
+
+Memorial Day is Monday May 25th (Summer Semester Week 4) (+1.5 pts)
+First Monday on or after 1/6 is Monday January 12th (Spring Semester Week 2), should be Spring Semester Week 1
+MLK Day is Monday January 19th (Spring Semester Week 3), should be Spring Semester Week 2
+Independence Day is Saturday July 4th (Summer Semester Week 9) (+1.5 pts)
+The last Friday in August is Friday August 28th (Fall Semester Week 2), should be Fall Semester Week 1
+Labor Day is Monday September 7th (Fall Semester Week 4), should be Fall Semester Week 3
+Columbus Day is Monday October 12th (Fall Semester Week 9), should be Fall Semester Week 8
+Thanksgiving is Thursday November 26th (Fall Semester Week 15), should be Fall Semester Week 14
+The first Monday in December is Monday December 7th (1 days after fall semester), should be Fall Semester Week 16
+
+Leap Year
+
+Memorial Day is Monday May 31st (Summer Semester Week 4) (+0.5 pts)
+First Monday on or after 1/6 is Monday January 12th (Spring Semester Week 1) (+1 pt)
+MLK Day is Monday January 19th (Spring Semester Week 2) (+1 pt)
+Independence Day is Sunday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+The last Friday in August is Friday August 27th (Fall Semester Week 1) (+1 pt)
+Labor Day is Monday September 6th (Fall Semester Week 3) (+1 pt)
+Columbus Day is Monday October 11th (Fall Semester Week 8) (+1 pt)
+Thanksgiving is Thursday November 25th (Fall Semester Week 14) (+1 pt)
+The first Monday in December is Monday December 6th (Fall Semester Week 16) (+1 pt)
+
+
+
+Year starts on Friday:
+
+Non-leap year
+
+Memorial Day is Monday May 31st (Summer Semester Week 4) (+1.5 pts)
+First Monday on or after 1/6 is Monday January 11th (Spring Semester Week 1) (+3 pts)
+MLK Day is Monday January 18th (Spring Semester Week 2) (+3 pts)
+Independence Day is Sunday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+The last Friday in August is Friday August 27th (Fall Semester Week 1) (+3 pts)
+Labor Day is Monday September 6th (Fall Semester Week 3) (+3 pts)
+Columbus Day is Monday October 11th (Fall Semester Week 8) (+3 pts)
+Thanksgiving is Thursday November 25th (Fall Semester Week 14) (+3 pts)
+The first Monday in December is Monday December 6th (Fall Semester Week 16) (+3 pts)
+
+Leap Year
+
+Memorial Day is Monday May 30th (Summer Semester Week 4) (+0.5 pts)
+First Monday on or after 1/6 is Monday January 11th (Spring Semester Week 1) (+1 pt)
+MLK Day is Monday January 18th (Spring Semester Week 2) (+1 pt)
+Independence Day is Monday July 4th (Summer Semester Week 9) (+0.5 pts)
+The last Friday in August is Friday August 26th (Fall Semester Week 1) (+1 pt)
+Labor Day is Monday September 5th (Fall Semester Week 3) (+1 pt)
+Columbus Day is Monday October 10th (Fall Semester Week 8) (+1 pt)
+Thanksgiving is Thursday November 24th (Fall Semester Week 14) (+1 pt)
+The first Monday in December is Monday December 5th (Fall Semester Week 16) (+1 pt)
+
+
+
+Year starts on Saturday:
+
+Non-leap year
+
+Memorial Day is Monday May 30th (Summer Semester Week 4) (+1.5 pts)
+First Monday on or after 1/6 is Monday January 10th (Spring Semester Week 1) (+3 pts)
+MLK Day is Monday January 17th (Spring Semester Week 2) (+3 pts)
+Independence Day is Monday July 4th (Summer Semester Week 9) (+1.5 pts)
+The last Friday in August is Friday August 26th (Fall Semester Week 1) (+3 pts)
+Labor Day is Monday September 5th (Fall Semester Week 3) (+3 pts)
+Columbus Day is Monday October 10th (Fall Semester Week 8) (+3 pts)
+Thanksgiving is Thursday November 24th (Fall Semester Week 14) (+3 pts)
+The first Monday in December is Monday December 5th (Fall Semester Week 16) (+3 pts)
+
+Leap Year
+
+Memorial Day is Monday May 29th (Summer Semester Week 4) (+0.5 pts)
+First Monday on or after 1/6 is Monday January 10th (Spring Semester Week 1) (+1 pt)
+MLK Day is Monday January 17th (Spring Semester Week 2) (+1 pt)
+Independence Day is Tuesday July 4th (Summer Semester Week 9) (+0.5 pts)
+The last Friday in August is Friday August 25th (Fall Semester Week 1) (+1 pt)
+Labor Day is Monday September 4th (Fall Semester Week 3) (+1 pt)
+Columbus Day is Monday October 9th (Fall Semester Week 8) (+1 pt)
+Thanksgiving is Thursday November 23rd (Fall Semester Week 14) (+1 pt)
+The first Monday in December is Monday December 4th (Fall Semester Week 16) (+1 pt)
+
+
+
+Defining schedule by Independence Day is in Summer Semester Week 9
+Year starts on Sunday:
+
+Non-leap year
+
+Independence Day is Tuesday July 4th (Summer Semester Week 9) (+1.5 pts)
+First Monday on or after 1/6 is Monday January 9th (Spring Semester Week 1) (+3 pts)
+MLK Day is Monday January 16th (Spring Semester Week 2) (+3 pts)
+Memorial Day is Monday May 29th (Summer Semester Week 4) (+1.5 pts)
+The last Friday in August is Friday August 25th (Fall Semester Week 1) (+3 pts)
+Labor Day is Monday September 4th (Fall Semester Week 3) (+3 pts)
+Columbus Day is Monday October 9th (Fall Semester Week 8) (+3 pts)
+Thanksgiving is Thursday November 23rd (Fall Semester Week 14) (+3 pts)
+The first Monday in December is Monday December 4th (Fall Semester Week 16) (+3 pts)
+
+Leap Year
+
+Independence Day is Wednesday July 4th (Summer Semester Week 9) (+0.5 pts)
+First Monday on or after 1/6 is Monday January 9th (Spring Semester Week 1) (+1 pt)
+MLK Day is Monday January 16th (Spring Semester Week 2) (+1 pt)
+Memorial Day is Monday May 28th (Summer Semester Week 4) (+0.5 pts)
+The last Friday in August is Friday August 31st (Fall Semester Week 2), should be Fall Semester Week 1
+Labor Day is Monday September 3rd (Fall Semester Week 3) (+1 pt)
+Columbus Day is Monday October 15th (Fall Semester Week 9), should be Fall Semester Week 8
+Thanksgiving is Thursday November 29th (Fall Semester Week 15), should be Fall Semester Week 14
+The first Monday in December is Monday December 3rd (Fall Semester Week 16) (+1 pt)
+
+
+
+Year starts on Monday:
+
+Non-leap year
+
+Independence Day is Wednesday July 4th (Summer Semester Week 9) (+1.5 pts)
+First Monday on or after 1/6 is Monday January 8th (Spring Semester Week 1) (+3 pts)
+MLK Day is Monday January 15th (Spring Semester Week 2) (+3 pts)
+Memorial Day is Monday May 28th (Summer Semester Week 4) (+1.5 pts)
+The last Friday in August is Friday August 31st (Fall Semester Week 2), should be Fall Semester Week 1
+Labor Day is Monday September 3rd (Fall Semester Week 3) (+3 pts)
+Columbus Day is Monday October 15th (Fall Semester Week 9), should be Fall Semester Week 8
+Thanksgiving is Thursday November 29th (Fall Semester Week 15), should be Fall Semester Week 14
+The first Monday in December is Monday December 3rd (Fall Semester Week 16) (+3 pts)
+
+Leap Year
+
+Independence Day is Thursday July 4th (Summer Semester Week 9) (+0.5 pts)
+First Monday on or after 1/6 is Monday January 8th (Spring Semester Week 1) (+1 pt)
+MLK Day is Monday January 15th (Spring Semester Week 2) (+1 pt)
+Memorial Day is Monday May 27th (Summer Semester Week 4) (+0.5 pts)
+The last Friday in August is Friday August 30th (Fall Semester Week 2), should be Fall Semester Week 1
+Labor Day is Monday September 2nd (Fall Semester Week 3) (+1 pt)
+Columbus Day is Monday October 14th (Fall Semester Week 9), should be Fall Semester Week 8
+Thanksgiving is Thursday November 28th (Fall Semester Week 15), should be Fall Semester Week 14
+The first Monday in December is Monday December 2nd (Fall Semester Week 16) (+1 pt)
+
+
+
+Year starts on Tuesday:
+
+Non-leap year
+
+Independence Day is Thursday July 4th (Summer Semester Week 9) (+1.5 pts)
+First Monday on or after 1/6 is Monday January 7th (Spring Semester Week 1) (+3 pts)
+MLK Day is Monday January 21st (Spring Semester Week 3), should be Spring Semester Week 2
+Memorial Day is Monday May 27th (Summer Semester Week 4) (+1.5 pts)
+The last Friday in August is Friday August 30th (Fall Semester Week 2), should be Fall Semester Week 1
+Labor Day is Monday September 2nd (Fall Semester Week 3) (+3 pts)
+Columbus Day is Monday October 14th (Fall Semester Week 9), should be Fall Semester Week 8
+Thanksgiving is Thursday November 28th (Fall Semester Week 15), should be Fall Semester Week 14
+The first Monday in December is Monday December 2nd (Fall Semester Week 16) (+3 pts)
+
+Leap Year
+
+Independence Day is Friday July 4th (Summer Semester Week 9) (+0.5 pts)
+First Monday on or after 1/6 is Monday January 7th (Spring Semester Week 1) (+1 pt)
+MLK Day is Monday January 21st (Spring Semester Week 3), should be Spring Semester Week 2
+Memorial Day is Monday May 26th (Summer Semester Week 4) (+0.5 pts)
+The last Friday in August is Friday August 29th (Fall Semester Week 2), should be Fall Semester Week 1
+Labor Day is Monday September 1st (Fall Semester Week 3) (+1 pt)
+Columbus Day is Monday October 13th (Fall Semester Week 9), should be Fall Semester Week 8
+Thanksgiving is Thursday November 27th (Fall Semester Week 15), should be Fall Semester Week 14
+The first Monday in December is Monday December 1st (Fall Semester Week 16) (+1 pt)
+
+
+
+Year starts on Wednesday:
+
+Non-leap year
+
+Independence Day is Friday July 4th (Summer Semester Week 9) (+1.5 pts)
+First Monday on or after 1/6 is Monday January 6th (Spring Semester Week 1) (+3 pts)
+MLK Day is Monday January 20th (Spring Semester Week 3), should be Spring Semester Week 2
+Memorial Day is Monday May 26th (Summer Semester Week 4) (+1.5 pts)
+The last Friday in August is Friday August 29th (Fall Semester Week 2), should be Fall Semester Week 1
+Labor Day is Monday September 1st (Fall Semester Week 3) (+3 pts)
+Columbus Day is Monday October 13th (Fall Semester Week 9), should be Fall Semester Week 8
+Thanksgiving is Thursday November 27th (Fall Semester Week 15), should be Fall Semester Week 14
+The first Monday in December is Monday December 1st (Fall Semester Week 16) (+3 pts)
+
+Leap Year
+
+Independence Day is Saturday July 4th (Summer Semester Week 9) (+0.5 pts)
+First Monday on or after 1/6 is Monday January 6th (Spring Semester Week 1) (+1 pt)
+MLK Day is Monday January 20th (Spring Semester Week 3), should be Spring Semester Week 2
+Memorial Day is Monday May 25th (Summer Semester Week 4) (+0.5 pts)
+The last Friday in August is Friday August 28th (Fall Semester Week 2), should be Fall Semester Week 1
+Labor Day is Monday September 7th (Fall Semester Week 4), should be Fall Semester Week 3
+Columbus Day is Monday October 12th (Fall Semester Week 9), should be Fall Semester Week 8
+Thanksgiving is Thursday November 26th (Fall Semester Week 15), should be Fall Semester Week 14
+The first Monday in December is Monday December 7th (1 days after fall semester), should be Fall Semester Week 16
+
+
+
+Year starts on Thursday:
+
+Non-leap year
+
+Independence Day is Saturday July 4th (Summer Semester Week 9) (+1.5 pts)
+First Monday on or after 1/6 is Monday January 12th (Spring Semester Week 2), should be Spring Semester Week 1
+MLK Day is Monday January 19th (Spring Semester Week 3), should be Spring Semester Week 2
+Memorial Day is Monday May 25th (Summer Semester Week 4) (+1.5 pts)
+The last Friday in August is Friday August 28th (Fall Semester Week 2), should be Fall Semester Week 1
+Labor Day is Monday September 7th (Fall Semester Week 4), should be Fall Semester Week 3
+Columbus Day is Monday October 12th (Fall Semester Week 9), should be Fall Semester Week 8
+Thanksgiving is Thursday November 26th (Fall Semester Week 15), should be Fall Semester Week 14
+The first Monday in December is Monday December 7th (1 days after fall semester), should be Fall Semester Week 16
+
+Leap Year
+
+Independence Day is Sunday July 4th (Summer Semester Week 9) (+0.5 pts)
+First Monday on or after 1/6 is Monday January 12th (Spring Semester Week 2), should be Spring Semester Week 1
+MLK Day is Monday January 19th (Spring Semester Week 3), should be Spring Semester Week 2
+Memorial Day is Monday May 31st (Summer Semester Week 5), should be Summer Semester Week 4
+The last Friday in August is Friday August 27th (Fall Semester Week 2), should be Fall Semester Week 1
+Labor Day is Monday September 6th (Fall Semester Week 4), should be Fall Semester Week 3
+Columbus Day is Monday October 11th (Fall Semester Week 9), should be Fall Semester Week 8
+Thanksgiving is Thursday November 25th (Fall Semester Week 15), should be Fall Semester Week 14
+The first Monday in December is Monday December 6th (1 days after fall semester), should be Fall Semester Week 16
+
+
+
+Year starts on Friday:
+
+Non-leap year
+
+Independence Day is Sunday July 4th (Summer Semester Week 9) (+1.5 pts)
+First Monday on or after 1/6 is Monday January 11th (Spring Semester Week 2), should be Spring Semester Week 1
+MLK Day is Monday January 18th (Spring Semester Week 3), should be Spring Semester Week 2
+Memorial Day is Monday May 31st (Summer Semester Week 5), should be Summer Semester Week 4
+The last Friday in August is Friday August 27th (Fall Semester Week 2), should be Fall Semester Week 1
+Labor Day is Monday September 6th (Fall Semester Week 4), should be Fall Semester Week 3
+Columbus Day is Monday October 11th (Fall Semester Week 9), should be Fall Semester Week 8
+Thanksgiving is Thursday November 25th (Fall Semester Week 15), should be Fall Semester Week 14
+The first Monday in December is Monday December 6th (1 days after fall semester), should be Fall Semester Week 16
+
+Leap Year
+
+Independence Day is Monday July 4th (Summer Semester Week 9) (+0.5 pts)
+First Monday on or after 1/6 is Monday January 11th (Spring Semester Week 1) (+1 pt)
+MLK Day is Monday January 18th (Spring Semester Week 2) (+1 pt)
+Memorial Day is Monday May 30th (Summer Semester Week 4) (+0.5 pts)
+The last Friday in August is Friday August 26th (Fall Semester Week 1) (+1 pt)
+Labor Day is Monday September 5th (Fall Semester Week 3) (+1 pt)
+Columbus Day is Monday October 10th (Fall Semester Week 8) (+1 pt)
+Thanksgiving is Thursday November 24th (Fall Semester Week 14) (+1 pt)
+The first Monday in December is Monday December 5th (Fall Semester Week 16) (+1 pt)
+
+
+
+Year starts on Saturday:
+
+Non-leap year
+
+Independence Day is Monday July 4th (Summer Semester Week 9) (+1.5 pts)
+First Monday on or after 1/6 is Monday January 10th (Spring Semester Week 1) (+3 pts)
+MLK Day is Monday January 17th (Spring Semester Week 2) (+3 pts)
+Memorial Day is Monday May 30th (Summer Semester Week 4) (+1.5 pts)
+The last Friday in August is Friday August 26th (Fall Semester Week 1) (+3 pts)
+Labor Day is Monday September 5th (Fall Semester Week 3) (+3 pts)
+Columbus Day is Monday October 10th (Fall Semester Week 8) (+3 pts)
+Thanksgiving is Thursday November 24th (Fall Semester Week 14) (+3 pts)
+The first Monday in December is Monday December 5th (Fall Semester Week 16) (+3 pts)
+
+Leap Year
+
+Independence Day is Tuesday July 4th (Summer Semester Week 9) (+0.5 pts)
+First Monday on or after 1/6 is Monday January 10th (Spring Semester Week 1) (+1 pt)
+MLK Day is Monday January 17th (Spring Semester Week 2) (+1 pt)
+Memorial Day is Monday May 29th (Summer Semester Week 4) (+0.5 pts)
+The last Friday in August is Friday August 25th (Fall Semester Week 1) (+1 pt)
+Labor Day is Monday September 4th (Fall Semester Week 3) (+1 pt)
+Columbus Day is Monday October 9th (Fall Semester Week 8) (+1 pt)
+Thanksgiving is Thursday November 23rd (Fall Semester Week 14) (+1 pt)
+The first Monday in December is Monday December 4th (Fall Semester Week 16) (+1 pt)
+
+
+
+Defining schedule by The last Friday in August is the end of Fall Semester Week 1
+Year starts on Sunday:
+
+Non-leap year
+
+The last Friday in August is Friday August 25th (Fall Semester Week 1) (+3 pts)
+First Monday on or after 1/6 is Monday January 9th (Spring Semester Week 1) (+3 pts)
+MLK Day is Monday January 16th (Spring Semester Week 2) (+3 pts)
+Memorial Day is Monday May 29th (Summer Semester Week 4) (+1.5 pts)
+Independence Day is Tuesday July 4th (Summer Semester Week 9) (+1.5 pts)
+Labor Day is Monday September 4th (Fall Semester Week 3) (+3 pts)
+Columbus Day is Monday October 9th (Fall Semester Week 8) (+3 pts)
+Thanksgiving is Thursday November 23rd (Fall Semester Week 14) (+3 pts)
+The first Monday in December is Monday December 4th (Fall Semester Week 16) (+3 pts)
+
+Leap Year
+
+The last Friday in August is Friday August 31st (Fall Semester Week 1) (+1 pt)
+First Monday on or after 1/6 is Monday January 9th (7 days before spring semester), should be Spring Semester Week 1
+MLK Day is Monday January 16th (Spring Semester Week 1), should be Spring Semester Week 2
+Memorial Day is Monday May 28th (Summer Semester Week 3), should be Summer Semester Week 4
+Independence Day is Wednesday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+Labor Day is Monday September 3rd (Fall Semester Week 2), should be Fall Semester Week 3
+Columbus Day is Monday October 15th (Fall Semester Week 8) (+1 pt)
+Thanksgiving is Thursday November 29th (Fall Semester Week 14) (+1 pt)
+The first Monday in December is Monday December 3rd (Fall Semester Week 15), should be Fall Semester Week 16
+
+
+
+Year starts on Monday:
+
+Non-leap year
+
+The last Friday in August is Friday August 31st (Fall Semester Week 1) (+3 pts)
+First Monday on or after 1/6 is Monday January 8th (7 days before spring semester), should be Spring Semester Week 1
+MLK Day is Monday January 15th (Spring Semester Week 1), should be Spring Semester Week 2
+Memorial Day is Monday May 28th (Summer Semester Week 3), should be Summer Semester Week 4
+Independence Day is Wednesday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+Labor Day is Monday September 3rd (Fall Semester Week 2), should be Fall Semester Week 3
+Columbus Day is Monday October 15th (Fall Semester Week 8) (+3 pts)
+Thanksgiving is Thursday November 29th (Fall Semester Week 14) (+3 pts)
+The first Monday in December is Monday December 3rd (Fall Semester Week 15), should be Fall Semester Week 16
+
+Leap Year
+
+The last Friday in August is Friday August 30th (Fall Semester Week 1) (+1 pt)
+First Monday on or after 1/6 is Monday January 8th (7 days before spring semester), should be Spring Semester Week 1
+MLK Day is Monday January 15th (Spring Semester Week 1), should be Spring Semester Week 2
+Memorial Day is Monday May 27th (Summer Semester Week 3), should be Summer Semester Week 4
+Independence Day is Thursday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+Labor Day is Monday September 2nd (Fall Semester Week 2), should be Fall Semester Week 3
+Columbus Day is Monday October 14th (Fall Semester Week 8) (+1 pt)
+Thanksgiving is Thursday November 28th (Fall Semester Week 14) (+1 pt)
+The first Monday in December is Monday December 2nd (Fall Semester Week 15), should be Fall Semester Week 16
+
+
+
+Year starts on Tuesday:
+
+Non-leap year
+
+The last Friday in August is Friday August 30th (Fall Semester Week 1) (+3 pts)
+First Monday on or after 1/6 is Monday January 7th (7 days before spring semester), should be Spring Semester Week 1
+MLK Day is Monday January 21st (Spring Semester Week 2) (+3 pts)
+Memorial Day is Monday May 27th (Summer Semester Week 3), should be Summer Semester Week 4
+Independence Day is Thursday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+Labor Day is Monday September 2nd (Fall Semester Week 2), should be Fall Semester Week 3
+Columbus Day is Monday October 14th (Fall Semester Week 8) (+3 pts)
+Thanksgiving is Thursday November 28th (Fall Semester Week 14) (+3 pts)
+The first Monday in December is Monday December 2nd (Fall Semester Week 15), should be Fall Semester Week 16
+
+Leap Year
+
+The last Friday in August is Friday August 29th (Fall Semester Week 1) (+1 pt)
+First Monday on or after 1/6 is Monday January 7th (7 days before spring semester), should be Spring Semester Week 1
+MLK Day is Monday January 21st (Spring Semester Week 2) (+1 pt)
+Memorial Day is Monday May 26th (Summer Semester Week 3), should be Summer Semester Week 4
+Independence Day is Friday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+Labor Day is Monday September 1st (Fall Semester Week 2), should be Fall Semester Week 3
+Columbus Day is Monday October 13th (Fall Semester Week 8) (+1 pt)
+Thanksgiving is Thursday November 27th (Fall Semester Week 14) (+1 pt)
+The first Monday in December is Monday December 1st (Fall Semester Week 15), should be Fall Semester Week 16
+
+
+
+Year starts on Wednesday:
+
+Non-leap year
+
+The last Friday in August is Friday August 29th (Fall Semester Week 1) (+3 pts)
+First Monday on or after 1/6 is Monday January 6th (7 days before spring semester), should be Spring Semester Week 1
+MLK Day is Monday January 20th (Spring Semester Week 2) (+3 pts)
+Memorial Day is Monday May 26th (Summer Semester Week 3), should be Summer Semester Week 4
+Independence Day is Friday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+Labor Day is Monday September 1st (Fall Semester Week 2), should be Fall Semester Week 3
+Columbus Day is Monday October 13th (Fall Semester Week 8) (+3 pts)
+Thanksgiving is Thursday November 27th (Fall Semester Week 14) (+3 pts)
+The first Monday in December is Monday December 1st (Fall Semester Week 15), should be Fall Semester Week 16
+
+Leap Year
+
+The last Friday in August is Friday August 28th (Fall Semester Week 1) (+1 pt)
+First Monday on or after 1/6 is Monday January 6th (7 days before spring semester), should be Spring Semester Week 1
+MLK Day is Monday January 20th (Spring Semester Week 2) (+1 pt)
+Memorial Day is Monday May 25th (Summer Semester Week 3), should be Summer Semester Week 4
+Independence Day is Saturday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+Labor Day is Monday September 7th (Fall Semester Week 3) (+1 pt)
+Columbus Day is Monday October 12th (Fall Semester Week 8) (+1 pt)
+Thanksgiving is Thursday November 26th (Fall Semester Week 14) (+1 pt)
+The first Monday in December is Monday December 7th (Fall Semester Week 16) (+1 pt)
+
+
+
+Year starts on Thursday:
+
+Non-leap year
+
+The last Friday in August is Friday August 28th (Fall Semester Week 1) (+3 pts)
+First Monday on or after 1/6 is Monday January 12th (Spring Semester Week 1) (+3 pts)
+MLK Day is Monday January 19th (Spring Semester Week 2) (+3 pts)
+Memorial Day is Monday May 25th (Summer Semester Week 3), should be Summer Semester Week 4
+Independence Day is Saturday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+Labor Day is Monday September 7th (Fall Semester Week 3) (+3 pts)
+Columbus Day is Monday October 12th (Fall Semester Week 8) (+3 pts)
+Thanksgiving is Thursday November 26th (Fall Semester Week 14) (+3 pts)
+The first Monday in December is Monday December 7th (Fall Semester Week 16) (+3 pts)
+
+Leap Year
+
+The last Friday in August is Friday August 27th (Fall Semester Week 1) (+1 pt)
+First Monday on or after 1/6 is Monday January 12th (Spring Semester Week 1) (+1 pt)
+MLK Day is Monday January 19th (Spring Semester Week 2) (+1 pt)
+Memorial Day is Monday May 31st (Summer Semester Week 4) (+0.5 pts)
+Independence Day is Sunday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+Labor Day is Monday September 6th (Fall Semester Week 3) (+1 pt)
+Columbus Day is Monday October 11th (Fall Semester Week 8) (+1 pt)
+Thanksgiving is Thursday November 25th (Fall Semester Week 14) (+1 pt)
+The first Monday in December is Monday December 6th (Fall Semester Week 16) (+1 pt)
+
+
+
+Year starts on Friday:
+
+Non-leap year
+
+The last Friday in August is Friday August 27th (Fall Semester Week 1) (+3 pts)
+First Monday on or after 1/6 is Monday January 11th (Spring Semester Week 1) (+3 pts)
+MLK Day is Monday January 18th (Spring Semester Week 2) (+3 pts)
+Memorial Day is Monday May 31st (Summer Semester Week 4) (+1.5 pts)
+Independence Day is Sunday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+Labor Day is Monday September 6th (Fall Semester Week 3) (+3 pts)
+Columbus Day is Monday October 11th (Fall Semester Week 8) (+3 pts)
+Thanksgiving is Thursday November 25th (Fall Semester Week 14) (+3 pts)
+The first Monday in December is Monday December 6th (Fall Semester Week 16) (+3 pts)
+
+Leap Year
+
+The last Friday in August is Friday August 26th (Fall Semester Week 1) (+1 pt)
+First Monday on or after 1/6 is Monday January 11th (Spring Semester Week 1) (+1 pt)
+MLK Day is Monday January 18th (Spring Semester Week 2) (+1 pt)
+Memorial Day is Monday May 30th (Summer Semester Week 4) (+0.5 pts)
+Independence Day is Monday July 4th (Summer Semester Week 9) (+0.5 pts)
+Labor Day is Monday September 5th (Fall Semester Week 3) (+1 pt)
+Columbus Day is Monday October 10th (Fall Semester Week 8) (+1 pt)
+Thanksgiving is Thursday November 24th (Fall Semester Week 14) (+1 pt)
+The first Monday in December is Monday December 5th (Fall Semester Week 16) (+1 pt)
+
+
+
+Year starts on Saturday:
+
+Non-leap year
+
+The last Friday in August is Friday August 26th (Fall Semester Week 1) (+3 pts)
+First Monday on or after 1/6 is Monday January 10th (Spring Semester Week 1) (+3 pts)
+MLK Day is Monday January 17th (Spring Semester Week 2) (+3 pts)
+Memorial Day is Monday May 30th (Summer Semester Week 4) (+1.5 pts)
+Independence Day is Monday July 4th (Summer Semester Week 9) (+1.5 pts)
+Labor Day is Monday September 5th (Fall Semester Week 3) (+3 pts)
+Columbus Day is Monday October 10th (Fall Semester Week 8) (+3 pts)
+Thanksgiving is Thursday November 24th (Fall Semester Week 14) (+3 pts)
+The first Monday in December is Monday December 5th (Fall Semester Week 16) (+3 pts)
+
+Leap Year
+
+The last Friday in August is Friday August 25th (Fall Semester Week 1) (+1 pt)
+First Monday on or after 1/6 is Monday January 10th (Spring Semester Week 1) (+1 pt)
+MLK Day is Monday January 17th (Spring Semester Week 2) (+1 pt)
+Memorial Day is Monday May 29th (Summer Semester Week 4) (+0.5 pts)
+Independence Day is Tuesday July 4th (Summer Semester Week 9) (+0.5 pts)
+Labor Day is Monday September 4th (Fall Semester Week 3) (+1 pt)
+Columbus Day is Monday October 9th (Fall Semester Week 8) (+1 pt)
+Thanksgiving is Thursday November 23rd (Fall Semester Week 14) (+1 pt)
+The first Monday in December is Monday December 4th (Fall Semester Week 16) (+1 pt)
+
+
+
+Defining schedule by Labor Day is in Fall Semester Week 3
+Year starts on Sunday:
+
+Non-leap year
+
+Labor Day is Monday September 4th (Fall Semester Week 3) (+3 pts)
+First Monday on or after 1/6 is Monday January 9th (Spring Semester Week 1) (+3 pts)
+MLK Day is Monday January 16th (Spring Semester Week 2) (+3 pts)
+Memorial Day is Monday May 29th (Summer Semester Week 4) (+1.5 pts)
+Independence Day is Tuesday July 4th (Summer Semester Week 9) (+1.5 pts)
+The last Friday in August is Friday August 25th (Fall Semester Week 1) (+3 pts)
+Columbus Day is Monday October 9th (Fall Semester Week 8) (+3 pts)
+Thanksgiving is Thursday November 23rd (Fall Semester Week 14) (+3 pts)
+The first Monday in December is Monday December 4th (Fall Semester Week 16) (+3 pts)
+
+Leap Year
+
+Labor Day is Monday September 3rd (Fall Semester Week 3) (+1 pt)
+First Monday on or after 1/6 is Monday January 9th (Spring Semester Week 1) (+1 pt)
+MLK Day is Monday January 16th (Spring Semester Week 2) (+1 pt)
+Memorial Day is Monday May 28th (Summer Semester Week 4) (+0.5 pts)
+Independence Day is Wednesday July 4th (Summer Semester Week 9) (+0.5 pts)
+The last Friday in August is Friday August 31st (Fall Semester Week 2), should be Fall Semester Week 1
+Columbus Day is Monday October 15th (Fall Semester Week 9), should be Fall Semester Week 8
+Thanksgiving is Thursday November 29th (Fall Semester Week 15), should be Fall Semester Week 14
+The first Monday in December is Monday December 3rd (Fall Semester Week 16) (+1 pt)
+
+
+
+Year starts on Monday:
+
+Non-leap year
+
+Labor Day is Monday September 3rd (Fall Semester Week 3) (+3 pts)
+First Monday on or after 1/6 is Monday January 8th (Spring Semester Week 1) (+3 pts)
+MLK Day is Monday January 15th (Spring Semester Week 2) (+3 pts)
+Memorial Day is Monday May 28th (Summer Semester Week 4) (+1.5 pts)
+Independence Day is Wednesday July 4th (Summer Semester Week 9) (+1.5 pts)
+The last Friday in August is Friday August 31st (Fall Semester Week 2), should be Fall Semester Week 1
+Columbus Day is Monday October 15th (Fall Semester Week 9), should be Fall Semester Week 8
+Thanksgiving is Thursday November 29th (Fall Semester Week 15), should be Fall Semester Week 14
+The first Monday in December is Monday December 3rd (Fall Semester Week 16) (+3 pts)
+
+Leap Year
+
+Labor Day is Monday September 2nd (Fall Semester Week 3) (+1 pt)
+First Monday on or after 1/6 is Monday January 8th (Spring Semester Week 1) (+1 pt)
+MLK Day is Monday January 15th (Spring Semester Week 2) (+1 pt)
+Memorial Day is Monday May 27th (Summer Semester Week 4) (+0.5 pts)
+Independence Day is Thursday July 4th (Summer Semester Week 9) (+0.5 pts)
+The last Friday in August is Friday August 30th (Fall Semester Week 2), should be Fall Semester Week 1
+Columbus Day is Monday October 14th (Fall Semester Week 9), should be Fall Semester Week 8
+Thanksgiving is Thursday November 28th (Fall Semester Week 15), should be Fall Semester Week 14
+The first Monday in December is Monday December 2nd (Fall Semester Week 16) (+1 pt)
+
+
+
+Year starts on Tuesday:
+
+Non-leap year
+
+Labor Day is Monday September 2nd (Fall Semester Week 3) (+3 pts)
+First Monday on or after 1/6 is Monday January 7th (Spring Semester Week 1) (+3 pts)
+MLK Day is Monday January 21st (Spring Semester Week 3), should be Spring Semester Week 2
+Memorial Day is Monday May 27th (Summer Semester Week 4) (+1.5 pts)
+Independence Day is Thursday July 4th (Summer Semester Week 9) (+1.5 pts)
+The last Friday in August is Friday August 30th (Fall Semester Week 2), should be Fall Semester Week 1
+Columbus Day is Monday October 14th (Fall Semester Week 9), should be Fall Semester Week 8
+Thanksgiving is Thursday November 28th (Fall Semester Week 15), should be Fall Semester Week 14
+The first Monday in December is Monday December 2nd (Fall Semester Week 16) (+3 pts)
+
+Leap Year
+
+Labor Day is Monday September 1st (Fall Semester Week 3) (+1 pt)
+First Monday on or after 1/6 is Monday January 7th (Spring Semester Week 1) (+1 pt)
+MLK Day is Monday January 21st (Spring Semester Week 3), should be Spring Semester Week 2
+Memorial Day is Monday May 26th (Summer Semester Week 4) (+0.5 pts)
+Independence Day is Friday July 4th (Summer Semester Week 9) (+0.5 pts)
+The last Friday in August is Friday August 29th (Fall Semester Week 2), should be Fall Semester Week 1
+Columbus Day is Monday October 13th (Fall Semester Week 9), should be Fall Semester Week 8
+Thanksgiving is Thursday November 27th (Fall Semester Week 15), should be Fall Semester Week 14
+The first Monday in December is Monday December 1st (Fall Semester Week 16) (+1 pt)
+
+
+
+Year starts on Wednesday:
+
+Non-leap year
+
+Labor Day is Monday September 1st (Fall Semester Week 3) (+3 pts)
+First Monday on or after 1/6 is Monday January 6th (Spring Semester Week 1) (+3 pts)
+MLK Day is Monday January 20th (Spring Semester Week 3), should be Spring Semester Week 2
+Memorial Day is Monday May 26th (Summer Semester Week 4) (+1.5 pts)
+Independence Day is Friday July 4th (Summer Semester Week 9) (+1.5 pts)
+The last Friday in August is Friday August 29th (Fall Semester Week 2), should be Fall Semester Week 1
+Columbus Day is Monday October 13th (Fall Semester Week 9), should be Fall Semester Week 8
+Thanksgiving is Thursday November 27th (Fall Semester Week 15), should be Fall Semester Week 14
+The first Monday in December is Monday December 1st (Fall Semester Week 16) (+3 pts)
+
+Leap Year
+
+Labor Day is Monday September 7th (Fall Semester Week 3) (+1 pt)
+First Monday on or after 1/6 is Monday January 6th (7 days before spring semester), should be Spring Semester Week 1
+MLK Day is Monday January 20th (Spring Semester Week 2) (+1 pt)
+Memorial Day is Monday May 25th (Summer Semester Week 3), should be Summer Semester Week 4
+Independence Day is Saturday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+The last Friday in August is Friday August 28th (Fall Semester Week 1) (+1 pt)
+Columbus Day is Monday October 12th (Fall Semester Week 8) (+1 pt)
+Thanksgiving is Thursday November 26th (Fall Semester Week 14) (+1 pt)
+The first Monday in December is Monday December 7th (Fall Semester Week 16) (+1 pt)
+
+
+
+Year starts on Thursday:
+
+Non-leap year
+
+Labor Day is Monday September 7th (Fall Semester Week 3) (+3 pts)
+First Monday on or after 1/6 is Monday January 12th (Spring Semester Week 1) (+3 pts)
+MLK Day is Monday January 19th (Spring Semester Week 2) (+3 pts)
+Memorial Day is Monday May 25th (Summer Semester Week 3), should be Summer Semester Week 4
+Independence Day is Saturday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+The last Friday in August is Friday August 28th (Fall Semester Week 1) (+3 pts)
+Columbus Day is Monday October 12th (Fall Semester Week 8) (+3 pts)
+Thanksgiving is Thursday November 26th (Fall Semester Week 14) (+3 pts)
+The first Monday in December is Monday December 7th (Fall Semester Week 16) (+3 pts)
+
+Leap Year
+
+Labor Day is Monday September 6th (Fall Semester Week 3) (+1 pt)
+First Monday on or after 1/6 is Monday January 12th (Spring Semester Week 1) (+1 pt)
+MLK Day is Monday January 19th (Spring Semester Week 2) (+1 pt)
+Memorial Day is Monday May 31st (Summer Semester Week 4) (+0.5 pts)
+Independence Day is Sunday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+The last Friday in August is Friday August 27th (Fall Semester Week 1) (+1 pt)
+Columbus Day is Monday October 11th (Fall Semester Week 8) (+1 pt)
+Thanksgiving is Thursday November 25th (Fall Semester Week 14) (+1 pt)
+The first Monday in December is Monday December 6th (Fall Semester Week 16) (+1 pt)
+
+
+
+Year starts on Friday:
+
+Non-leap year
+
+Labor Day is Monday September 6th (Fall Semester Week 3) (+3 pts)
+First Monday on or after 1/6 is Monday January 11th (Spring Semester Week 1) (+3 pts)
+MLK Day is Monday January 18th (Spring Semester Week 2) (+3 pts)
+Memorial Day is Monday May 31st (Summer Semester Week 4) (+1.5 pts)
+Independence Day is Sunday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+The last Friday in August is Friday August 27th (Fall Semester Week 1) (+3 pts)
+Columbus Day is Monday October 11th (Fall Semester Week 8) (+3 pts)
+Thanksgiving is Thursday November 25th (Fall Semester Week 14) (+3 pts)
+The first Monday in December is Monday December 6th (Fall Semester Week 16) (+3 pts)
+
+Leap Year
+
+Labor Day is Monday September 5th (Fall Semester Week 3) (+1 pt)
+First Monday on or after 1/6 is Monday January 11th (Spring Semester Week 1) (+1 pt)
+MLK Day is Monday January 18th (Spring Semester Week 2) (+1 pt)
+Memorial Day is Monday May 30th (Summer Semester Week 4) (+0.5 pts)
+Independence Day is Monday July 4th (Summer Semester Week 9) (+0.5 pts)
+The last Friday in August is Friday August 26th (Fall Semester Week 1) (+1 pt)
+Columbus Day is Monday October 10th (Fall Semester Week 8) (+1 pt)
+Thanksgiving is Thursday November 24th (Fall Semester Week 14) (+1 pt)
+The first Monday in December is Monday December 5th (Fall Semester Week 16) (+1 pt)
+
+
+
+Year starts on Saturday:
+
+Non-leap year
+
+Labor Day is Monday September 5th (Fall Semester Week 3) (+3 pts)
+First Monday on or after 1/6 is Monday January 10th (Spring Semester Week 1) (+3 pts)
+MLK Day is Monday January 17th (Spring Semester Week 2) (+3 pts)
+Memorial Day is Monday May 30th (Summer Semester Week 4) (+1.5 pts)
+Independence Day is Monday July 4th (Summer Semester Week 9) (+1.5 pts)
+The last Friday in August is Friday August 26th (Fall Semester Week 1) (+3 pts)
+Columbus Day is Monday October 10th (Fall Semester Week 8) (+3 pts)
+Thanksgiving is Thursday November 24th (Fall Semester Week 14) (+3 pts)
+The first Monday in December is Monday December 5th (Fall Semester Week 16) (+3 pts)
+
+Leap Year
+
+Labor Day is Monday September 4th (Fall Semester Week 3) (+1 pt)
+First Monday on or after 1/6 is Monday January 10th (Spring Semester Week 1) (+1 pt)
+MLK Day is Monday January 17th (Spring Semester Week 2) (+1 pt)
+Memorial Day is Monday May 29th (Summer Semester Week 4) (+0.5 pts)
+Independence Day is Tuesday July 4th (Summer Semester Week 9) (+0.5 pts)
+The last Friday in August is Friday August 25th (Fall Semester Week 1) (+1 pt)
+Columbus Day is Monday October 9th (Fall Semester Week 8) (+1 pt)
+Thanksgiving is Thursday November 23rd (Fall Semester Week 14) (+1 pt)
+The first Monday in December is Monday December 4th (Fall Semester Week 16) (+1 pt)
+
+
+
+Defining schedule by Columbus Day is in Fall Semester Week 8 (defines Fall Break)
+Year starts on Sunday:
+
+Non-leap year
+
+Columbus Day is Monday October 9th (Fall Semester Week 8) (+3 pts)
+First Monday on or after 1/6 is Monday January 9th (Spring Semester Week 1) (+3 pts)
+MLK Day is Monday January 16th (Spring Semester Week 2) (+3 pts)
+Memorial Day is Monday May 29th (Summer Semester Week 4) (+1.5 pts)
+Independence Day is Tuesday July 4th (Summer Semester Week 9) (+1.5 pts)
+The last Friday in August is Friday August 25th (Fall Semester Week 1) (+3 pts)
+Labor Day is Monday September 4th (Fall Semester Week 3) (+3 pts)
+Thanksgiving is Thursday November 23rd (Fall Semester Week 14) (+3 pts)
+The first Monday in December is Monday December 4th (Fall Semester Week 16) (+3 pts)
+
+Leap Year
+
+Columbus Day is Monday October 15th (Fall Semester Week 8) (+1 pt)
+First Monday on or after 1/6 is Monday January 9th (7 days before spring semester), should be Spring Semester Week 1
+MLK Day is Monday January 16th (Spring Semester Week 1), should be Spring Semester Week 2
+Memorial Day is Monday May 28th (Summer Semester Week 3), should be Summer Semester Week 4
+Independence Day is Wednesday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+The last Friday in August is Friday August 31st (Fall Semester Week 1) (+1 pt)
+Labor Day is Monday September 3rd (Fall Semester Week 2), should be Fall Semester Week 3
+Thanksgiving is Thursday November 29th (Fall Semester Week 14) (+1 pt)
+The first Monday in December is Monday December 3rd (Fall Semester Week 15), should be Fall Semester Week 16
+
+
+
+Year starts on Monday:
+
+Non-leap year
+
+Columbus Day is Monday October 15th (Fall Semester Week 8) (+3 pts)
+First Monday on or after 1/6 is Monday January 8th (7 days before spring semester), should be Spring Semester Week 1
+MLK Day is Monday January 15th (Spring Semester Week 1), should be Spring Semester Week 2
+Memorial Day is Monday May 28th (Summer Semester Week 3), should be Summer Semester Week 4
+Independence Day is Wednesday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+The last Friday in August is Friday August 31st (Fall Semester Week 1) (+3 pts)
+Labor Day is Monday September 3rd (Fall Semester Week 2), should be Fall Semester Week 3
+Thanksgiving is Thursday November 29th (Fall Semester Week 14) (+3 pts)
+The first Monday in December is Monday December 3rd (Fall Semester Week 15), should be Fall Semester Week 16
+
+Leap Year
+
+Columbus Day is Monday October 14th (Fall Semester Week 8) (+1 pt)
+First Monday on or after 1/6 is Monday January 8th (7 days before spring semester), should be Spring Semester Week 1
+MLK Day is Monday January 15th (Spring Semester Week 1), should be Spring Semester Week 2
+Memorial Day is Monday May 27th (Summer Semester Week 3), should be Summer Semester Week 4
+Independence Day is Thursday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+The last Friday in August is Friday August 30th (Fall Semester Week 1) (+1 pt)
+Labor Day is Monday September 2nd (Fall Semester Week 2), should be Fall Semester Week 3
+Thanksgiving is Thursday November 28th (Fall Semester Week 14) (+1 pt)
+The first Monday in December is Monday December 2nd (Fall Semester Week 15), should be Fall Semester Week 16
+
+
+
+Year starts on Tuesday:
+
+Non-leap year
+
+Columbus Day is Monday October 14th (Fall Semester Week 8) (+3 pts)
+First Monday on or after 1/6 is Monday January 7th (7 days before spring semester), should be Spring Semester Week 1
+MLK Day is Monday January 21st (Spring Semester Week 2) (+3 pts)
+Memorial Day is Monday May 27th (Summer Semester Week 3), should be Summer Semester Week 4
+Independence Day is Thursday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+The last Friday in August is Friday August 30th (Fall Semester Week 1) (+3 pts)
+Labor Day is Monday September 2nd (Fall Semester Week 2), should be Fall Semester Week 3
+Thanksgiving is Thursday November 28th (Fall Semester Week 14) (+3 pts)
+The first Monday in December is Monday December 2nd (Fall Semester Week 15), should be Fall Semester Week 16
+
+Leap Year
+
+Columbus Day is Monday October 13th (Fall Semester Week 8) (+1 pt)
+First Monday on or after 1/6 is Monday January 7th (7 days before spring semester), should be Spring Semester Week 1
+MLK Day is Monday January 21st (Spring Semester Week 2) (+1 pt)
+Memorial Day is Monday May 26th (Summer Semester Week 3), should be Summer Semester Week 4
+Independence Day is Friday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+The last Friday in August is Friday August 29th (Fall Semester Week 1) (+1 pt)
+Labor Day is Monday September 1st (Fall Semester Week 2), should be Fall Semester Week 3
+Thanksgiving is Thursday November 27th (Fall Semester Week 14) (+1 pt)
+The first Monday in December is Monday December 1st (Fall Semester Week 15), should be Fall Semester Week 16
+
+
+
+Year starts on Wednesday:
+
+Non-leap year
+
+Columbus Day is Monday October 13th (Fall Semester Week 8) (+3 pts)
+First Monday on or after 1/6 is Monday January 6th (7 days before spring semester), should be Spring Semester Week 1
+MLK Day is Monday January 20th (Spring Semester Week 2) (+3 pts)
+Memorial Day is Monday May 26th (Summer Semester Week 3), should be Summer Semester Week 4
+Independence Day is Friday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+The last Friday in August is Friday August 29th (Fall Semester Week 1) (+3 pts)
+Labor Day is Monday September 1st (Fall Semester Week 2), should be Fall Semester Week 3
+Thanksgiving is Thursday November 27th (Fall Semester Week 14) (+3 pts)
+The first Monday in December is Monday December 1st (Fall Semester Week 15), should be Fall Semester Week 16
+
+Leap Year
+
+Columbus Day is Monday October 12th (Fall Semester Week 8) (+1 pt)
+First Monday on or after 1/6 is Monday January 6th (7 days before spring semester), should be Spring Semester Week 1
+MLK Day is Monday January 20th (Spring Semester Week 2) (+1 pt)
+Memorial Day is Monday May 25th (Summer Semester Week 3), should be Summer Semester Week 4
+Independence Day is Saturday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+The last Friday in August is Friday August 28th (Fall Semester Week 1) (+1 pt)
+Labor Day is Monday September 7th (Fall Semester Week 3) (+1 pt)
+Thanksgiving is Thursday November 26th (Fall Semester Week 14) (+1 pt)
+The first Monday in December is Monday December 7th (Fall Semester Week 16) (+1 pt)
+
+
+
+Year starts on Thursday:
+
+Non-leap year
+
+Columbus Day is Monday October 12th (Fall Semester Week 8) (+3 pts)
+First Monday on or after 1/6 is Monday January 12th (Spring Semester Week 1) (+3 pts)
+MLK Day is Monday January 19th (Spring Semester Week 2) (+3 pts)
+Memorial Day is Monday May 25th (Summer Semester Week 3), should be Summer Semester Week 4
+Independence Day is Saturday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+The last Friday in August is Friday August 28th (Fall Semester Week 1) (+3 pts)
+Labor Day is Monday September 7th (Fall Semester Week 3) (+3 pts)
+Thanksgiving is Thursday November 26th (Fall Semester Week 14) (+3 pts)
+The first Monday in December is Monday December 7th (Fall Semester Week 16) (+3 pts)
+
+Leap Year
+
+Columbus Day is Monday October 11th (Fall Semester Week 8) (+1 pt)
+First Monday on or after 1/6 is Monday January 12th (Spring Semester Week 1) (+1 pt)
+MLK Day is Monday January 19th (Spring Semester Week 2) (+1 pt)
+Memorial Day is Monday May 31st (Summer Semester Week 4) (+0.5 pts)
+Independence Day is Sunday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+The last Friday in August is Friday August 27th (Fall Semester Week 1) (+1 pt)
+Labor Day is Monday September 6th (Fall Semester Week 3) (+1 pt)
+Thanksgiving is Thursday November 25th (Fall Semester Week 14) (+1 pt)
+The first Monday in December is Monday December 6th (Fall Semester Week 16) (+1 pt)
+
+
+
+Year starts on Friday:
+
+Non-leap year
+
+Columbus Day is Monday October 11th (Fall Semester Week 8) (+3 pts)
+First Monday on or after 1/6 is Monday January 11th (Spring Semester Week 1) (+3 pts)
+MLK Day is Monday January 18th (Spring Semester Week 2) (+3 pts)
+Memorial Day is Monday May 31st (Summer Semester Week 4) (+1.5 pts)
+Independence Day is Sunday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+The last Friday in August is Friday August 27th (Fall Semester Week 1) (+3 pts)
+Labor Day is Monday September 6th (Fall Semester Week 3) (+3 pts)
+Thanksgiving is Thursday November 25th (Fall Semester Week 14) (+3 pts)
+The first Monday in December is Monday December 6th (Fall Semester Week 16) (+3 pts)
+
+Leap Year
+
+Columbus Day is Monday October 10th (Fall Semester Week 8) (+1 pt)
+First Monday on or after 1/6 is Monday January 11th (Spring Semester Week 1) (+1 pt)
+MLK Day is Monday January 18th (Spring Semester Week 2) (+1 pt)
+Memorial Day is Monday May 30th (Summer Semester Week 4) (+0.5 pts)
+Independence Day is Monday July 4th (Summer Semester Week 9) (+0.5 pts)
+The last Friday in August is Friday August 26th (Fall Semester Week 1) (+1 pt)
+Labor Day is Monday September 5th (Fall Semester Week 3) (+1 pt)
+Thanksgiving is Thursday November 24th (Fall Semester Week 14) (+1 pt)
+The first Monday in December is Monday December 5th (Fall Semester Week 16) (+1 pt)
+
+
+
+Year starts on Saturday:
+
+Non-leap year
+
+Columbus Day is Monday October 10th (Fall Semester Week 8) (+3 pts)
+First Monday on or after 1/6 is Monday January 10th (Spring Semester Week 1) (+3 pts)
+MLK Day is Monday January 17th (Spring Semester Week 2) (+3 pts)
+Memorial Day is Monday May 30th (Summer Semester Week 4) (+1.5 pts)
+Independence Day is Monday July 4th (Summer Semester Week 9) (+1.5 pts)
+The last Friday in August is Friday August 26th (Fall Semester Week 1) (+3 pts)
+Labor Day is Monday September 5th (Fall Semester Week 3) (+3 pts)
+Thanksgiving is Thursday November 24th (Fall Semester Week 14) (+3 pts)
+The first Monday in December is Monday December 5th (Fall Semester Week 16) (+3 pts)
+
+Leap Year
+
+Columbus Day is Monday October 9th (Fall Semester Week 8) (+1 pt)
+First Monday on or after 1/6 is Monday January 10th (Spring Semester Week 1) (+1 pt)
+MLK Day is Monday January 17th (Spring Semester Week 2) (+1 pt)
+Memorial Day is Monday May 29th (Summer Semester Week 4) (+0.5 pts)
+Independence Day is Tuesday July 4th (Summer Semester Week 9) (+0.5 pts)
+The last Friday in August is Friday August 25th (Fall Semester Week 1) (+1 pt)
+Labor Day is Monday September 4th (Fall Semester Week 3) (+1 pt)
+Thanksgiving is Thursday November 23rd (Fall Semester Week 14) (+1 pt)
+The first Monday in December is Monday December 4th (Fall Semester Week 16) (+1 pt)
+
+
+
+Defining schedule by Thanksgiving is in Fall Semester Week 14
+Year starts on Sunday:
+
+Non-leap year
+
+Thanksgiving is Thursday November 23rd (Fall Semester Week 14) (+3 pts)
+First Monday on or after 1/6 is Monday January 9th (Spring Semester Week 1) (+3 pts)
+MLK Day is Monday January 16th (Spring Semester Week 2) (+3 pts)
+Memorial Day is Monday May 29th (Summer Semester Week 4) (+1.5 pts)
+Independence Day is Tuesday July 4th (Summer Semester Week 9) (+1.5 pts)
+The last Friday in August is Friday August 25th (Fall Semester Week 1) (+3 pts)
+Labor Day is Monday September 4th (Fall Semester Week 3) (+3 pts)
+Columbus Day is Monday October 9th (Fall Semester Week 8) (+3 pts)
+The first Monday in December is Monday December 4th (Fall Semester Week 16) (+3 pts)
+
+Leap Year
+
+Thanksgiving is Thursday November 29th (Fall Semester Week 14) (+1 pt)
+First Monday on or after 1/6 is Monday January 9th (7 days before spring semester), should be Spring Semester Week 1
+MLK Day is Monday January 16th (Spring Semester Week 1), should be Spring Semester Week 2
+Memorial Day is Monday May 28th (Summer Semester Week 3), should be Summer Semester Week 4
+Independence Day is Wednesday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+The last Friday in August is Friday August 31st (Fall Semester Week 1) (+1 pt)
+Labor Day is Monday September 3rd (Fall Semester Week 2), should be Fall Semester Week 3
+Columbus Day is Monday October 15th (Fall Semester Week 8) (+1 pt)
+The first Monday in December is Monday December 3rd (Fall Semester Week 15), should be Fall Semester Week 16
+
+
+
+Year starts on Monday:
+
+Non-leap year
+
+Thanksgiving is Thursday November 29th (Fall Semester Week 14) (+3 pts)
+First Monday on or after 1/6 is Monday January 8th (7 days before spring semester), should be Spring Semester Week 1
+MLK Day is Monday January 15th (Spring Semester Week 1), should be Spring Semester Week 2
+Memorial Day is Monday May 28th (Summer Semester Week 3), should be Summer Semester Week 4
+Independence Day is Wednesday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+The last Friday in August is Friday August 31st (Fall Semester Week 1) (+3 pts)
+Labor Day is Monday September 3rd (Fall Semester Week 2), should be Fall Semester Week 3
+Columbus Day is Monday October 15th (Fall Semester Week 8) (+3 pts)
+The first Monday in December is Monday December 3rd (Fall Semester Week 15), should be Fall Semester Week 16
+
+Leap Year
+
+Thanksgiving is Thursday November 28th (Fall Semester Week 14) (+1 pt)
+First Monday on or after 1/6 is Monday January 8th (7 days before spring semester), should be Spring Semester Week 1
+MLK Day is Monday January 15th (Spring Semester Week 1), should be Spring Semester Week 2
+Memorial Day is Monday May 27th (Summer Semester Week 3), should be Summer Semester Week 4
+Independence Day is Thursday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+The last Friday in August is Friday August 30th (Fall Semester Week 1) (+1 pt)
+Labor Day is Monday September 2nd (Fall Semester Week 2), should be Fall Semester Week 3
+Columbus Day is Monday October 14th (Fall Semester Week 8) (+1 pt)
+The first Monday in December is Monday December 2nd (Fall Semester Week 15), should be Fall Semester Week 16
+
+
+
+Year starts on Tuesday:
+
+Non-leap year
+
+Thanksgiving is Thursday November 28th (Fall Semester Week 14) (+3 pts)
+First Monday on or after 1/6 is Monday January 7th (7 days before spring semester), should be Spring Semester Week 1
+MLK Day is Monday January 21st (Spring Semester Week 2) (+3 pts)
+Memorial Day is Monday May 27th (Summer Semester Week 3), should be Summer Semester Week 4
+Independence Day is Thursday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+The last Friday in August is Friday August 30th (Fall Semester Week 1) (+3 pts)
+Labor Day is Monday September 2nd (Fall Semester Week 2), should be Fall Semester Week 3
+Columbus Day is Monday October 14th (Fall Semester Week 8) (+3 pts)
+The first Monday in December is Monday December 2nd (Fall Semester Week 15), should be Fall Semester Week 16
+
+Leap Year
+
+Thanksgiving is Thursday November 27th (Fall Semester Week 14) (+1 pt)
+First Monday on or after 1/6 is Monday January 7th (7 days before spring semester), should be Spring Semester Week 1
+MLK Day is Monday January 21st (Spring Semester Week 2) (+1 pt)
+Memorial Day is Monday May 26th (Summer Semester Week 3), should be Summer Semester Week 4
+Independence Day is Friday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+The last Friday in August is Friday August 29th (Fall Semester Week 1) (+1 pt)
+Labor Day is Monday September 1st (Fall Semester Week 2), should be Fall Semester Week 3
+Columbus Day is Monday October 13th (Fall Semester Week 8) (+1 pt)
+The first Monday in December is Monday December 1st (Fall Semester Week 15), should be Fall Semester Week 16
+
+
+
+Year starts on Wednesday:
+
+Non-leap year
+
+Thanksgiving is Thursday November 27th (Fall Semester Week 14) (+3 pts)
+First Monday on or after 1/6 is Monday January 6th (7 days before spring semester), should be Spring Semester Week 1
+MLK Day is Monday January 20th (Spring Semester Week 2) (+3 pts)
+Memorial Day is Monday May 26th (Summer Semester Week 3), should be Summer Semester Week 4
+Independence Day is Friday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+The last Friday in August is Friday August 29th (Fall Semester Week 1) (+3 pts)
+Labor Day is Monday September 1st (Fall Semester Week 2), should be Fall Semester Week 3
+Columbus Day is Monday October 13th (Fall Semester Week 8) (+3 pts)
+The first Monday in December is Monday December 1st (Fall Semester Week 15), should be Fall Semester Week 16
+
+Leap Year
+
+Thanksgiving is Thursday November 26th (Fall Semester Week 14) (+1 pt)
+First Monday on or after 1/6 is Monday January 6th (7 days before spring semester), should be Spring Semester Week 1
+MLK Day is Monday January 20th (Spring Semester Week 2) (+1 pt)
+Memorial Day is Monday May 25th (Summer Semester Week 3), should be Summer Semester Week 4
+Independence Day is Saturday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+The last Friday in August is Friday August 28th (Fall Semester Week 1) (+1 pt)
+Labor Day is Monday September 7th (Fall Semester Week 3) (+1 pt)
+Columbus Day is Monday October 12th (Fall Semester Week 8) (+1 pt)
+The first Monday in December is Monday December 7th (Fall Semester Week 16) (+1 pt)
+
+
+
+Year starts on Thursday:
+
+Non-leap year
+
+Thanksgiving is Thursday November 26th (Fall Semester Week 14) (+3 pts)
+First Monday on or after 1/6 is Monday January 12th (Spring Semester Week 1) (+3 pts)
+MLK Day is Monday January 19th (Spring Semester Week 2) (+3 pts)
+Memorial Day is Monday May 25th (Summer Semester Week 3), should be Summer Semester Week 4
+Independence Day is Saturday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+The last Friday in August is Friday August 28th (Fall Semester Week 1) (+3 pts)
+Labor Day is Monday September 7th (Fall Semester Week 3) (+3 pts)
+Columbus Day is Monday October 12th (Fall Semester Week 8) (+3 pts)
+The first Monday in December is Monday December 7th (Fall Semester Week 16) (+3 pts)
+
+Leap Year
+
+Thanksgiving is Thursday November 25th (Fall Semester Week 14) (+1 pt)
+First Monday on or after 1/6 is Monday January 12th (Spring Semester Week 1) (+1 pt)
+MLK Day is Monday January 19th (Spring Semester Week 2) (+1 pt)
+Memorial Day is Monday May 31st (Summer Semester Week 4) (+0.5 pts)
+Independence Day is Sunday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+The last Friday in August is Friday August 27th (Fall Semester Week 1) (+1 pt)
+Labor Day is Monday September 6th (Fall Semester Week 3) (+1 pt)
+Columbus Day is Monday October 11th (Fall Semester Week 8) (+1 pt)
+The first Monday in December is Monday December 6th (Fall Semester Week 16) (+1 pt)
+
+
+
+Year starts on Friday:
+
+Non-leap year
+
+Thanksgiving is Thursday November 25th (Fall Semester Week 14) (+3 pts)
+First Monday on or after 1/6 is Monday January 11th (Spring Semester Week 1) (+3 pts)
+MLK Day is Monday January 18th (Spring Semester Week 2) (+3 pts)
+Memorial Day is Monday May 31st (Summer Semester Week 4) (+1.5 pts)
+Independence Day is Sunday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+The last Friday in August is Friday August 27th (Fall Semester Week 1) (+3 pts)
+Labor Day is Monday September 6th (Fall Semester Week 3) (+3 pts)
+Columbus Day is Monday October 11th (Fall Semester Week 8) (+3 pts)
+The first Monday in December is Monday December 6th (Fall Semester Week 16) (+3 pts)
+
+Leap Year
+
+Thanksgiving is Thursday November 24th (Fall Semester Week 14) (+1 pt)
+First Monday on or after 1/6 is Monday January 11th (Spring Semester Week 1) (+1 pt)
+MLK Day is Monday January 18th (Spring Semester Week 2) (+1 pt)
+Memorial Day is Monday May 30th (Summer Semester Week 4) (+0.5 pts)
+Independence Day is Monday July 4th (Summer Semester Week 9) (+0.5 pts)
+The last Friday in August is Friday August 26th (Fall Semester Week 1) (+1 pt)
+Labor Day is Monday September 5th (Fall Semester Week 3) (+1 pt)
+Columbus Day is Monday October 10th (Fall Semester Week 8) (+1 pt)
+The first Monday in December is Monday December 5th (Fall Semester Week 16) (+1 pt)
+
+
+
+Year starts on Saturday:
+
+Non-leap year
+
+Thanksgiving is Thursday November 24th (Fall Semester Week 14) (+3 pts)
+First Monday on or after 1/6 is Monday January 10th (Spring Semester Week 1) (+3 pts)
+MLK Day is Monday January 17th (Spring Semester Week 2) (+3 pts)
+Memorial Day is Monday May 30th (Summer Semester Week 4) (+1.5 pts)
+Independence Day is Monday July 4th (Summer Semester Week 9) (+1.5 pts)
+The last Friday in August is Friday August 26th (Fall Semester Week 1) (+3 pts)
+Labor Day is Monday September 5th (Fall Semester Week 3) (+3 pts)
+Columbus Day is Monday October 10th (Fall Semester Week 8) (+3 pts)
+The first Monday in December is Monday December 5th (Fall Semester Week 16) (+3 pts)
+
+Leap Year
+
+Thanksgiving is Thursday November 23rd (Fall Semester Week 14) (+1 pt)
+First Monday on or after 1/6 is Monday January 10th (Spring Semester Week 1) (+1 pt)
+MLK Day is Monday January 17th (Spring Semester Week 2) (+1 pt)
+Memorial Day is Monday May 29th (Summer Semester Week 4) (+0.5 pts)
+Independence Day is Tuesday July 4th (Summer Semester Week 9) (+0.5 pts)
+The last Friday in August is Friday August 25th (Fall Semester Week 1) (+1 pt)
+Labor Day is Monday September 4th (Fall Semester Week 3) (+1 pt)
+Columbus Day is Monday October 9th (Fall Semester Week 8) (+1 pt)
+The first Monday in December is Monday December 4th (Fall Semester Week 16) (+1 pt)
+
+
+
+Defining schedule by The first Monday in December is the start of Fall final exams
+Year starts on Sunday:
+
+Non-leap year
+
+The first Monday in December is Monday December 4th (Fall Semester Week 16) (+3 pts)
+First Monday on or after 1/6 is Monday January 9th (Spring Semester Week 1) (+3 pts)
+MLK Day is Monday January 16th (Spring Semester Week 2) (+3 pts)
+Memorial Day is Monday May 29th (Summer Semester Week 4) (+1.5 pts)
+Independence Day is Tuesday July 4th (Summer Semester Week 9) (+1.5 pts)
+The last Friday in August is Friday August 25th (Fall Semester Week 1) (+3 pts)
+Labor Day is Monday September 4th (Fall Semester Week 3) (+3 pts)
+Columbus Day is Monday October 9th (Fall Semester Week 8) (+3 pts)
+Thanksgiving is Thursday November 23rd (Fall Semester Week 14) (+3 pts)
+
+Leap Year
+
+The first Monday in December is Monday December 3rd (Fall Semester Week 16) (+1 pt)
+First Monday on or after 1/6 is Monday January 9th (Spring Semester Week 1) (+1 pt)
+MLK Day is Monday January 16th (Spring Semester Week 2) (+1 pt)
+Memorial Day is Monday May 28th (Summer Semester Week 4) (+0.5 pts)
+Independence Day is Wednesday July 4th (Summer Semester Week 9) (+0.5 pts)
+The last Friday in August is Friday August 31st (Fall Semester Week 2), should be Fall Semester Week 1
+Labor Day is Monday September 3rd (Fall Semester Week 3) (+1 pt)
+Columbus Day is Monday October 15th (Fall Semester Week 9), should be Fall Semester Week 8
+Thanksgiving is Thursday November 29th (Fall Semester Week 15), should be Fall Semester Week 14
+
+
+
+Year starts on Monday:
+
+Non-leap year
+
+The first Monday in December is Monday December 3rd (Fall Semester Week 16) (+3 pts)
+First Monday on or after 1/6 is Monday January 8th (Spring Semester Week 1) (+3 pts)
+MLK Day is Monday January 15th (Spring Semester Week 2) (+3 pts)
+Memorial Day is Monday May 28th (Summer Semester Week 4) (+1.5 pts)
+Independence Day is Wednesday July 4th (Summer Semester Week 9) (+1.5 pts)
+The last Friday in August is Friday August 31st (Fall Semester Week 2), should be Fall Semester Week 1
+Labor Day is Monday September 3rd (Fall Semester Week 3) (+3 pts)
+Columbus Day is Monday October 15th (Fall Semester Week 9), should be Fall Semester Week 8
+Thanksgiving is Thursday November 29th (Fall Semester Week 15), should be Fall Semester Week 14
+
+Leap Year
+
+The first Monday in December is Monday December 2nd (Fall Semester Week 16) (+1 pt)
+First Monday on or after 1/6 is Monday January 8th (Spring Semester Week 1) (+1 pt)
+MLK Day is Monday January 15th (Spring Semester Week 2) (+1 pt)
+Memorial Day is Monday May 27th (Summer Semester Week 4) (+0.5 pts)
+Independence Day is Thursday July 4th (Summer Semester Week 9) (+0.5 pts)
+The last Friday in August is Friday August 30th (Fall Semester Week 2), should be Fall Semester Week 1
+Labor Day is Monday September 2nd (Fall Semester Week 3) (+1 pt)
+Columbus Day is Monday October 14th (Fall Semester Week 9), should be Fall Semester Week 8
+Thanksgiving is Thursday November 28th (Fall Semester Week 15), should be Fall Semester Week 14
+
+
+
+Year starts on Tuesday:
+
+Non-leap year
+
+The first Monday in December is Monday December 2nd (Fall Semester Week 16) (+3 pts)
+First Monday on or after 1/6 is Monday January 7th (Spring Semester Week 1) (+3 pts)
+MLK Day is Monday January 21st (Spring Semester Week 3), should be Spring Semester Week 2
+Memorial Day is Monday May 27th (Summer Semester Week 4) (+1.5 pts)
+Independence Day is Thursday July 4th (Summer Semester Week 9) (+1.5 pts)
+The last Friday in August is Friday August 30th (Fall Semester Week 2), should be Fall Semester Week 1
+Labor Day is Monday September 2nd (Fall Semester Week 3) (+3 pts)
+Columbus Day is Monday October 14th (Fall Semester Week 9), should be Fall Semester Week 8
+Thanksgiving is Thursday November 28th (Fall Semester Week 15), should be Fall Semester Week 14
+
+Leap Year
+
+The first Monday in December is Monday December 1st (Fall Semester Week 16) (+1 pt)
+First Monday on or after 1/6 is Monday January 7th (Spring Semester Week 1) (+1 pt)
+MLK Day is Monday January 21st (Spring Semester Week 3), should be Spring Semester Week 2
+Memorial Day is Monday May 26th (Summer Semester Week 4) (+0.5 pts)
+Independence Day is Friday July 4th (Summer Semester Week 9) (+0.5 pts)
+The last Friday in August is Friday August 29th (Fall Semester Week 2), should be Fall Semester Week 1
+Labor Day is Monday September 1st (Fall Semester Week 3) (+1 pt)
+Columbus Day is Monday October 13th (Fall Semester Week 9), should be Fall Semester Week 8
+Thanksgiving is Thursday November 27th (Fall Semester Week 15), should be Fall Semester Week 14
+
+
+
+Year starts on Wednesday:
+
+Non-leap year
+
+The first Monday in December is Monday December 1st (Fall Semester Week 16) (+3 pts)
+First Monday on or after 1/6 is Monday January 6th (Spring Semester Week 1) (+3 pts)
+MLK Day is Monday January 20th (Spring Semester Week 3), should be Spring Semester Week 2
+Memorial Day is Monday May 26th (Summer Semester Week 4) (+1.5 pts)
+Independence Day is Friday July 4th (Summer Semester Week 9) (+1.5 pts)
+The last Friday in August is Friday August 29th (Fall Semester Week 2), should be Fall Semester Week 1
+Labor Day is Monday September 1st (Fall Semester Week 3) (+3 pts)
+Columbus Day is Monday October 13th (Fall Semester Week 9), should be Fall Semester Week 8
+Thanksgiving is Thursday November 27th (Fall Semester Week 15), should be Fall Semester Week 14
+
+Leap Year
+
+The first Monday in December is Monday December 7th (Fall Semester Week 16) (+1 pt)
+First Monday on or after 1/6 is Monday January 6th (7 days before spring semester), should be Spring Semester Week 1
+MLK Day is Monday January 20th (Spring Semester Week 2) (+1 pt)
+Memorial Day is Monday May 25th (Summer Semester Week 3), should be Summer Semester Week 4
+Independence Day is Saturday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+The last Friday in August is Friday August 28th (Fall Semester Week 1) (+1 pt)
+Labor Day is Monday September 7th (Fall Semester Week 3) (+1 pt)
+Columbus Day is Monday October 12th (Fall Semester Week 8) (+1 pt)
+Thanksgiving is Thursday November 26th (Fall Semester Week 14) (+1 pt)
+
+
+
+Year starts on Thursday:
+
+Non-leap year
+
+The first Monday in December is Monday December 7th (Fall Semester Week 16) (+3 pts)
+First Monday on or after 1/6 is Monday January 12th (Spring Semester Week 1) (+3 pts)
+MLK Day is Monday January 19th (Spring Semester Week 2) (+3 pts)
+Memorial Day is Monday May 25th (Summer Semester Week 3), should be Summer Semester Week 4
+Independence Day is Saturday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+The last Friday in August is Friday August 28th (Fall Semester Week 1) (+3 pts)
+Labor Day is Monday September 7th (Fall Semester Week 3) (+3 pts)
+Columbus Day is Monday October 12th (Fall Semester Week 8) (+3 pts)
+Thanksgiving is Thursday November 26th (Fall Semester Week 14) (+3 pts)
+
+Leap Year
+
+The first Monday in December is Monday December 6th (Fall Semester Week 16) (+1 pt)
+First Monday on or after 1/6 is Monday January 12th (Spring Semester Week 1) (+1 pt)
+MLK Day is Monday January 19th (Spring Semester Week 2) (+1 pt)
+Memorial Day is Monday May 31st (Summer Semester Week 4) (+0.5 pts)
+Independence Day is Sunday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+The last Friday in August is Friday August 27th (Fall Semester Week 1) (+1 pt)
+Labor Day is Monday September 6th (Fall Semester Week 3) (+1 pt)
+Columbus Day is Monday October 11th (Fall Semester Week 8) (+1 pt)
+Thanksgiving is Thursday November 25th (Fall Semester Week 14) (+1 pt)
+
+
+
+Year starts on Friday:
+
+Non-leap year
+
+The first Monday in December is Monday December 6th (Fall Semester Week 16) (+3 pts)
+First Monday on or after 1/6 is Monday January 11th (Spring Semester Week 1) (+3 pts)
+MLK Day is Monday January 18th (Spring Semester Week 2) (+3 pts)
+Memorial Day is Monday May 31st (Summer Semester Week 4) (+1.5 pts)
+Independence Day is Sunday July 4th (Summer Semester Week 8), should be Summer Semester Week 9
+The last Friday in August is Friday August 27th (Fall Semester Week 1) (+3 pts)
+Labor Day is Monday September 6th (Fall Semester Week 3) (+3 pts)
+Columbus Day is Monday October 11th (Fall Semester Week 8) (+3 pts)
+Thanksgiving is Thursday November 25th (Fall Semester Week 14) (+3 pts)
+
+Leap Year
+
+The first Monday in December is Monday December 5th (Fall Semester Week 16) (+1 pt)
+First Monday on or after 1/6 is Monday January 11th (Spring Semester Week 1) (+1 pt)
+MLK Day is Monday January 18th (Spring Semester Week 2) (+1 pt)
+Memorial Day is Monday May 30th (Summer Semester Week 4) (+0.5 pts)
+Independence Day is Monday July 4th (Summer Semester Week 9) (+0.5 pts)
+The last Friday in August is Friday August 26th (Fall Semester Week 1) (+1 pt)
+Labor Day is Monday September 5th (Fall Semester Week 3) (+1 pt)
+Columbus Day is Monday October 10th (Fall Semester Week 8) (+1 pt)
+Thanksgiving is Thursday November 24th (Fall Semester Week 14) (+1 pt)
+
+
+
+Year starts on Saturday:
+
+Non-leap year
+
+The first Monday in December is Monday December 5th (Fall Semester Week 16) (+3 pts)
+First Monday on or after 1/6 is Monday January 10th (Spring Semester Week 1) (+3 pts)
+MLK Day is Monday January 17th (Spring Semester Week 2) (+3 pts)
+Memorial Day is Monday May 30th (Summer Semester Week 4) (+1.5 pts)
+Independence Day is Monday July 4th (Summer Semester Week 9) (+1.5 pts)
+The last Friday in August is Friday August 26th (Fall Semester Week 1) (+3 pts)
+Labor Day is Monday September 5th (Fall Semester Week 3) (+3 pts)
+Columbus Day is Monday October 10th (Fall Semester Week 8) (+3 pts)
+Thanksgiving is Thursday November 24th (Fall Semester Week 14) (+3 pts)
+
+Leap Year
+
+The first Monday in December is Monday December 4th (Fall Semester Week 16) (+1 pt)
+First Monday on or after 1/6 is Monday January 10th (Spring Semester Week 1) (+1 pt)
+MLK Day is Monday January 17th (Spring Semester Week 2) (+1 pt)
+Memorial Day is Monday May 29th (Summer Semester Week 4) (+0.5 pts)
+Independence Day is Tuesday July 4th (Summer Semester Week 9) (+0.5 pts)
+The last Friday in August is Friday August 25th (Fall Semester Week 1) (+1 pt)
+Labor Day is Monday September 4th (Fall Semester Week 3) (+1 pt)
+Columbus Day is Monday October 9th (Fall Semester Week 8) (+1 pt)
+Thanksgiving is Thursday November 23rd (Fall Semester Week 14) (+1 pt)
+
+
+
+Final scores: 
+First Monday on or after 1/6 is the start of spring semester - 158/224 pts (70%)
+MLK Day is in Spring Semester Week 2 - 166/224 pts (74%)
+Memorial Day is in Summer Semester Week 4 - 139/224 pts (62%)
+Independence Day is in Summer Semester Week 9 - 111/224 pts (49%)
+The last Friday in August is the end of Fall Semester Week 1 - 159/224 pts (70%)
+Labor Day is in Fall Semester Week 3 - 163/224 pts (72%)
+Columbus Day is in Fall Semester Week 8 (defines Fall Break) - 159/224 pts (70%)
+Thanksgiving is in Fall Semester Week 14 - 159/224 pts (70%)
+The first Monday in December is the start of Fall final exams - 163/224 pts (72%)
