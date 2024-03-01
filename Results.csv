@@ -1,0 +1,48 @@
+Sunday:
+Year,Spring Start,Memorial Day,Independence Day,August End,Labor Day,Fall Break,Thanksgiving,Exams Start
+Year 1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Year 2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Year 3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Year 4,Yes,Yes,Yes,No,Yes,No,No,Yes
+
+Monday:
+Year,Spring Start,Memorial Day,Independence Day,August End,Labor Day,Fall Break,Thanksgiving,Exams Start
+Year 1,Yes,Yes,Yes,No,Yes,No,No,Yes
+Year 2,Yes,Yes,Yes,No,Yes,No,No,Yes
+Year 3,Yes,Yes,Yes,No,Yes,No,No,Yes
+Year 4,Yes,Yes,Yes,No,Yes,No,No,Yes
+
+Tuesday:
+Year,Spring Start,Memorial Day,Independence Day,August End,Labor Day,Fall Break,Thanksgiving,Exams Start
+Year 1,No,No,No,Yes,No,Yes,Yes,No
+Year 2,No,No,No,Yes,No,Yes,Yes,No
+Year 3,No,No,No,Yes,No,Yes,Yes,No
+Year 4,No,No,No,Yes,No,Yes,Yes,No
+
+Wednesday:
+Year,Spring Start,Memorial Day,Independence Day,August End,Labor Day,Fall Break,Thanksgiving,Exams Start
+Year 1,No,No,No,Yes,No,Yes,Yes,No
+Year 2,No,No,No,Yes,No,Yes,Yes,No
+Year 3,No,No,No,Yes,No,Yes,Yes,No
+Year 4,No,No,No,Yes,Yes,Yes,Yes,Yes
+
+Thursday:
+Year,Spring Start,Memorial Day,Independence Day,August End,Labor Day,Fall Break,Thanksgiving,Exams Start
+Year 1,Yes,No,No,Yes,Yes,Yes,Yes,Yes
+Year 2,Yes,No,No,Yes,Yes,Yes,Yes,Yes
+Year 3,Yes,No,No,Yes,Yes,Yes,Yes,Yes
+Year 4,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes
+
+Friday:
+Year,Spring Start,Memorial Day,Independence Day,August End,Labor Day,Fall Break,Thanksgiving,Exams Start
+Year 1,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes
+Year 2,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes
+Year 3,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes
+Year 4,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+
+Saturday:
+Year,Spring Start,Memorial Day,Independence Day,August End,Labor Day,Fall Break,Thanksgiving,Exams Start
+Year 1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Year 2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Year 3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Year 4,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
