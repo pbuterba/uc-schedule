@@ -22,11 +22,17 @@ std::string MONTH_NAMES[] = {
     "November",
     "December"
 };
+int DAYS_BEFORE_SPRING_SEMESTER = 0;
+int DAYS_AFTER_FALL_SEMESTER = 0;
 
 std::ofstream output("output.txt");
 
 Day next(Day previousDay) {
-    if(previousDay.getDayOfWeek() == 0) {
+    if(DAYS_BEFORE_SPRING_SEMESTER > 0) {
+        DAYS_BEFORE_SPRING_SEMESTER--;
+    } else if(DAYS_AFTER_FALL_SEMESTER > 0) {
+        DAYS_AFTER_FALL_SEMESTER++;
+    } else if(previousDay.getDayOfWeek() == 0) {
         if(SEMESTER.compare("Spring") == 0 && WEEK == 16) {
             SEMESTER = "Spring-Summer break";
             WEEK = 1;
@@ -40,9 +46,7 @@ Day next(Day previousDay) {
             SEMESTER = "Fall";
             WEEK = 1;
         } else if(SEMESTER.compare("Fall") == 0 && WEEK == 16) {
-            output << "End of Year!" << std::endl;
-            SEMESTER = "Christmas break";
-            WEEK = 1;
+            DAYS_AFTER_FALL_SEMESTER++;
         } else {
             WEEK = WEEK + 1;
         }
@@ -51,11 +55,13 @@ Day next(Day previousDay) {
 }
 
 Day prev(Day followingDay) {
-    if(followingDay.getDayOfWeek() == 1) {
+    if(DAYS_AFTER_FALL_SEMESTER > 0) {
+        DAYS_AFTER_FALL_SEMESTER--;
+    } else if(DAYS_BEFORE_SPRING_SEMESTER > 0) {
+        DAYS_BEFORE_SPRING_SEMESTER++;
+    } else if(followingDay.getDayOfWeek() == 1) {
         if(SEMESTER.compare("Spring") == 0 && WEEK == 1) {
-            output << "Beginning of Year!" << std::endl;
-            SEMESTER = "New Years";
-            WEEK = -1;
+            DAYS_BEFORE_SPRING_SEMESTER++;
         } else if(SEMESTER.compare("Spring-Summer break") == 0) {
             SEMESTER = "Spring";
             WEEK = 16;
@@ -76,7 +82,14 @@ Day prev(Day followingDay) {
 }
 
 void dateAnnouncement(Criterion criterion, Day day) {
-    std::string outputText = criterion.getName() + " " + day.toString() + " (" + SEMESTER + " Semester Week " + std::to_string(WEEK) + ")";
+    std::string outputText = criterion.getName() + " " + day.toString() + " (";
+    if(DAYS_BEFORE_SPRING_SEMESTER > 0) {
+        outputText = outputText + std::to_string(DAYS_BEFORE_SPRING_SEMESTER) + " days before spring semester)";
+    } else if(DAYS_AFTER_FALL_SEMESTER > 0) {
+        outputText = outputText + std::to_string(DAYS_AFTER_FALL_SEMESTER) + " days after fall semester)";
+    } else {
+        outputText = outputText + SEMESTER + " Semester Week " + std::to_string(WEEK) + ")";
+    }
     output << outputText;
 }
 
@@ -156,6 +169,8 @@ int main() {
                 }
                 SEMESTER = definingCriterion.getSemester();
                 WEEK = definingCriterion.getTargetWeek();
+                DAYS_BEFORE_SPRING_SEMESTER = 0;
+                DAYS_AFTER_FALL_SEMESTER = 0;
                 dateAnnouncement(definingCriterion, currDay);
 
                 //Add starting scores
@@ -179,8 +194,8 @@ int main() {
                     if(j != i) {
                         Criterion criterion = criteria[j];
 
-                        //Reverse to the beginning of the year or until we're in a month before the criterion
-                        while(!(SEMESTER == "Spring" && WEEK == 1 && currDay.getDayOfWeek() == 1) && currDay.getMonth() >= criterion.getMonth())
+                        //Reverse to the beginning of the year
+                        while(currDay.getMonth() != 1 || currDay.getDate() != 1)
                         {
                             currDay = prev(currDay);
                         }
@@ -227,7 +242,11 @@ int main() {
 
                         //Check if criterion is met
                         dateAnnouncement(criterion, currDay);
-                        if(SEMESTER == criterion.getSemester() && WEEK == criterion.getTargetWeek()) {
+                        if(SEMESTER == criterion.getSemester() &&
+                        WEEK == criterion.getTargetWeek() &&
+                            DAYS_BEFORE_SPRING_SEMESTER == 0 &&
+                            DAYS_AFTER_FALL_SEMESTER == 0)
+                        {
                             //Add scores
                             double score;
                             if(leap) {
@@ -258,7 +277,7 @@ int main() {
 
     output << "Final scores: " << std::endl;
     for(int i = 0; i < NUM_CRITERIA; i++) {
-        output << criteria[i].getName() << " " << criteria[i].getDescription() << " - " << criteriaScores[i] << " pts" << std::endl;
+        output << criteria[i].getName() << " " << criteria[i].getDescription() << " - " << criteriaScores[i] << "/224 pts (" << (int)((criteriaScores[i]/224.0)*100) << "%)" << std::endl;
     }
     return 0;
 }
